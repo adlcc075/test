@@ -1,0 +1,2012 @@
+Archive member included because of file (symbol)
+
+/home/george/kibble/rom_utility/output/mx6x/lib/lib.a(vectors.o)
+                              (--whole-archive)
+/home/george/kibble/rom_utility/output/mx6x/lib/lib.a(init.o)
+                              (--whole-archive)
+/home/george/kibble/rom_utility/output/mx6x/lib/lib.a(stdio_func.o)
+                              (--whole-archive)
+/home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6dq_iomux.o)
+                              (--whole-archive)
+/home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6dl_iomux.o)
+                              (--whole-archive)
+/home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6sl_iomux.o)
+                              (--whole-archive)
+/home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6sx_iomux.o)
+                              (--whole-archive)
+/home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6ul_iomux.o)
+                              (--whole-archive)
+/home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6ull_iomux.o)
+                              (--whole-archive)
+/home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6sll_iomux.o)
+                              (--whole-archive)
+/home/george/kibble/rom_utility/output/mx6x/lib/lib.a(hardware.o)
+                              (--whole-archive)
+/home/george/kibble/rom_utility/output/mx6x/lib/lib.a(platform.o)
+                              (--whole-archive)
+/home/george/kibble/rom_utility/output/mx6x/lib/lib.a(psp.o)
+                              (--whole-archive)
+/home/george/kibble/rom_utility/output/mx6x/lib/lib.a(arm_v7.o)
+                              (--whole-archive)
+/home/george/kibble/rom_utility/output/mx6x/lib/lib.a(boot_cfg.o)
+                              (--whole-archive)
+/home/george/kibble/rom_utility/output/mx6x/lib/lib.a(rom_symbols.o)
+                              (--whole-archive)
+/home/george/kibble/rom_utility/output/mx6x/lib/lib.a(arm_v7_cache.o)
+                              (--whole-archive)
+/home/george/kibble/rom_utility/output/mx6x/lib/lib.a(cortexa_dcc3.o)
+                              (--whole-archive)
+/home/george/kibble/rom_utility/output/mx6x/lib/lib.a(term.o)
+                              (--whole-archive)
+/home/george/kibble/rom_utility/output/mx6x/lib/lib.a(ocotp.o)
+                              (--whole-archive)
+/home/george/kibble/rom_utility/output/mx6x/lib/lib.a(timer.o)
+                              (--whole-archive)
+/home/george/kibble/rom_utility/output/mx6x/lib/lib.a(iomuxc.o)
+                              (--whole-archive)
+/home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_ecspi.o)
+                              (--whole-archive)
+/home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_i2c.o)
+                              (--whole-archive)
+/home/george/kibble/rom_utility/output/mx6x/lib/lib.a(qspi.o)
+                              (--whole-archive)
+/home/george/kibble/rom_utility/output/mx6x/lib/lib.a(quadspi_test.o)
+                              (--whole-archive)
+/home/george/kibble/rom_utility/output/mx6x/lib/lib.a(at24cxx.o)
+                              (--whole-archive)
+/home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor_atmel.o)
+                              (--whole-archive)
+/home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor.o)
+                              (--whole-archive)
+/home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor_numonyx.o)
+                              (--whole-archive)
+/home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor.o)
+                              (--whole-archive)
+/home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_cmdset0.o)
+                              (--whole-archive)
+/home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_cmdset1.o)
+                              (--whole-archive)
+/home/george/kibble/rom_utility/output/mx6x/lib/lib.a(ocotp_utility.o)
+                              (--whole-archive)
+/home/george/kibble/rom_utility/output/mx6x/lib/lib.a(main.o)
+                              (--whole-archive)
+/home/george/kibble/rom_utility/output/mx6x/lib/lib.a(flash_utility.o)
+                              (--whole-archive)
+/home/george/kibble/rom_utility/output/mx6x/lib/lib.a(romp_utility.o)
+                              (--whole-archive)
+/home/george/kibble/rom_utility/output/mx6x/lib/lib.a(common_utility.o)
+                              (--whole-archive)
+/home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_utility.o)
+                              (--whole-archive)
+/home/george/kibble/rom_utility/output/mx6x/lib/lib.a(shell.o)
+                              (--whole-archive)
+/home/george/kibble/rom_utility/output/mx6x/lib/lib.a(crc.o)
+                              (--whole-archive)
+/usr/local/gcc-arm-none-eabi-4_7/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7-ar/thumb/libgcc.a(_udivsi3.o)
+                              /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor_atmel.o) (__aeabi_uidiv)
+/usr/local/gcc-arm-none-eabi-4_7/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7-ar/thumb/libgcc.a(_dvmd_tls.o)
+                              /usr/local/gcc-arm-none-eabi-4_7/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7-ar/thumb/libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+
+Allocating common symbols
+Common symbol       size              file
+
+regs_USDHC1_base    0x4               /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(platform.o)
+regs_IOMUXC_base    0x4               /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(platform.o)
+regs_USDHC2_base    0x4               /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(platform.o)
+g_nor_cfg           0x4               /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor.o)
+iomux_NAND_cfg      0x4               /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(platform.o)
+regs_WEIM_CS_base   0x4               /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(platform.o)
+g_spi_nor_tx_buf    0x200             /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor.o)
+cmd_line_buffer     0x100             /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(shell.o)
+regs_BCH_base       0x4               /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(platform.o)
+regs_APBH_DMA_base  0x4               /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(platform.o)
+spi_xfer_flash      0x4               /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor.o)
+g_spi_nor_rx_buf    0x200             /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor.o)
+regs_USB_base       0x4               /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(platform.o)
+regs_GPMI_base      0x4               /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(platform.o)
+history_buffer      0x400             /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(shell.o)
+g_nor_boot          0x4               /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor.o)
+chip                0x2               /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(main.o)
+regs_OCOTP_base     0x4               /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(platform.o)
+regs_USDHC4_base    0x4               /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(platform.o)
+argvs               0x80              /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(shell.o)
+regs_USDHC3_base    0x4               /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(platform.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+IRAM             0x00904000         0x0001c000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /home/george/kibble/rom_utility/output/mx6x/lib/lib.a
+START GROUP
+LOAD /usr/local/gcc-arm-none-eabi-4_7/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7-ar/thumb/libgcc.a
+LOAD /usr/local/gcc-arm-none-eabi-4_7/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7-ar/thumb/libg.a
+LOAD /usr/local/gcc-arm-none-eabi-4_7/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7-ar/thumb/libc.a
+END GROUP
+
+.vectors        0x00904000        0x0
+                0x00904000                __vectors_start = .
+ *o(.vectors)
+                0x00904000                __vectors_end = .
+
+.text           0x00904000      0x464
+ *(.text)
+ .text          0x00904000       0x54 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(vectors.o)
+ .text          0x00904054       0x54 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(init.o)
+                0x00904054                Reset_Handler
+ .text          0x009040a8        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(stdio_func.o)
+ .text          0x009040a8        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6dq_iomux.o)
+ .text          0x009040a8        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6dl_iomux.o)
+ .text          0x009040a8        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6sl_iomux.o)
+ .text          0x009040a8        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6sx_iomux.o)
+ .text          0x009040a8        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6ul_iomux.o)
+ .text          0x009040a8        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6ull_iomux.o)
+ .text          0x009040a8        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6sll_iomux.o)
+ .text          0x009040a8        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(hardware.o)
+ .text          0x009040a8        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(platform.o)
+ .text          0x009040a8        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(psp.o)
+ .text          0x009040a8        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(arm_v7.o)
+ .text          0x009040a8        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(boot_cfg.o)
+ .text          0x009040a8        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(rom_symbols.o)
+ .text          0x009040a8      0x140 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(arm_v7_cache.o)
+                0x009040a8                pu_irom_boot_l1icache_disable
+                0x009040bc                hapi_cache_clean_invalidate
+                0x00904158                hapi_mmu_disable
+ .text          0x009041e8        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(cortexa_dcc3.o)
+ .text          0x009041e8        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(term.o)
+ .text          0x009041e8        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(ocotp.o)
+ .text          0x009041e8        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(timer.o)
+ .text          0x009041e8        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(iomuxc.o)
+ .text          0x009041e8        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_ecspi.o)
+ .text          0x009041e8        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_i2c.o)
+ .text          0x009041e8        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(qspi.o)
+ .text          0x009041e8        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(quadspi_test.o)
+ .text          0x009041e8        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(at24cxx.o)
+ .text          0x009041e8        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor_atmel.o)
+ .text          0x009041e8        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor.o)
+ .text          0x009041e8        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor_numonyx.o)
+ .text          0x009041e8        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor.o)
+ .text          0x009041e8        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_cmdset0.o)
+ .text          0x009041e8        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_cmdset1.o)
+ .text          0x009041e8        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(ocotp_utility.o)
+ .text          0x009041e8        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(main.o)
+ .text          0x009041e8        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(flash_utility.o)
+ .text          0x009041e8        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(romp_utility.o)
+ .text          0x009041e8        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(common_utility.o)
+ .text          0x009041e8        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_utility.o)
+ .text          0x009041e8        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(shell.o)
+ .text          0x009041e8        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(crc.o)
+ .text          0x009041e8      0x278 /usr/local/gcc-arm-none-eabi-4_7/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7-ar/thumb/libgcc.a(_udivsi3.o)
+                0x009041e8                __udivsi3
+                0x009041e8                __aeabi_uidiv
+                0x00904444                __aeabi_uidivmod
+ .text          0x00904460        0x4 /usr/local/gcc-arm-none-eabi-4_7/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7-ar/thumb/libgcc.a(_dvmd_tls.o)
+                0x00904460                __aeabi_ldiv0
+                0x00904460                __aeabi_idiv0
+                0x00904464                . = ALIGN (0x4)
+
+.glue_7         0x00904464        0x0
+ .glue_7        0x00000000        0x0 linker stubs
+
+.glue_7t        0x00904464        0x0
+ .glue_7t       0x00000000        0x0 linker stubs
+
+.vfp11_veneer   0x00904464        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x00904464        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x00904464        0x0
+ .iplt          0x00000000        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(vectors.o)
+
+.text.send_char
+                0x00904464       0x1c
+ .text.send_char
+                0x00904464       0x1c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(stdio_func.o)
+                0x00904464                send_char
+
+.text.get_char  0x00904480       0x24
+ .text.get_char
+                0x00904480       0x24 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(stdio_func.o)
+                0x00904480                get_char
+
+.text.is_dec_asc
+                0x009044a4       0x4c
+ .text.is_dec_asc
+                0x009044a4       0x4c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(stdio_func.o)
+                0x009044a4                is_dec_asc
+
+.text.is_asc    0x009044f0       0x38
+ .text.is_asc   0x009044f0       0x38 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(stdio_func.o)
+                0x009044f0                is_asc
+
+.text.is_hex_asc
+                0x00904528       0x44
+ .text.is_hex_asc
+                0x00904528       0x44 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(stdio_func.o)
+                0x00904528                is_hex_asc
+
+.text.printf_char
+                0x0090456c       0x44
+ .text.printf_char
+                0x0090456c       0x44 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(stdio_func.o)
+                0x0090456c                printf_char
+
+.text.printf_str
+                0x009045b0       0x34
+ .text.printf_str
+                0x009045b0       0x34 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(stdio_func.o)
+                0x009045b0                printf_str
+
+.text.printf_hex
+                0x009045e4       0x8c
+ .text.printf_hex
+                0x009045e4       0x8c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(stdio_func.o)
+                0x009045e4                printf_hex
+
+.text.printf_hex_upper
+                0x00904670       0x8c
+ .text.printf_hex_upper
+                0x00904670       0x8c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(stdio_func.o)
+                0x00904670                printf_hex_upper
+
+.text.printf_dec
+                0x009046fc       0xac
+ .text.printf_dec
+                0x009046fc       0xac /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(stdio_func.o)
+                0x009046fc                printf_dec
+
+.text.easy_printf
+                0x009047a8      0x194
+ .text.easy_printf
+                0x009047a8      0x194 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(stdio_func.o)
+                0x009047a8                easy_printf
+
+.text.easy_memset
+                0x0090493c       0x50
+ .text.easy_memset
+                0x0090493c       0x50 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(stdio_func.o)
+                0x0090493c                easy_memset
+
+.text.easy_memcpy
+                0x0090498c       0x5c
+ .text.easy_memcpy
+                0x0090498c       0x5c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(stdio_func.o)
+                0x0090498c                easy_memcpy
+
+.text.easy_memcmp
+                0x009049e8       0x70
+ .text.easy_memcmp
+                0x009049e8       0x70 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(stdio_func.o)
+                0x009049e8                easy_memcmp
+
+.text.easy_strcmp
+                0x00904a58       0x58
+ .text.easy_strcmp
+                0x00904a58       0x58 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(stdio_func.o)
+                0x00904a58                easy_strcmp
+
+.text.easy_strncmp
+                0x00904ab0       0x70
+ .text.easy_strncmp
+                0x00904ab0       0x70 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(stdio_func.o)
+                0x00904ab0                easy_strncmp
+
+.text.easy_strtoul
+                0x00904b20      0x108
+ .text.easy_strtoul
+                0x00904b20      0x108 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(stdio_func.o)
+                0x00904b20                easy_strtoul
+
+.text.easy_strtol
+                0x00904c28       0x4c
+ .text.easy_strtol
+                0x00904c28       0x4c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(stdio_func.o)
+                0x00904c28                easy_strtol
+
+.text.easy_strlen
+                0x00904c74       0x3c
+ .text.easy_strlen
+                0x00904c74       0x3c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(stdio_func.o)
+                0x00904c74                easy_strlen
+
+.text.easy_strcpy
+                0x00904cb0       0x4c
+ .text.easy_strcpy
+                0x00904cb0       0x4c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(stdio_func.o)
+                0x00904cb0                easy_strcpy
+
+.text.get_freq  0x00904cfc       0x1c
+ .text.get_freq
+                0x00904cfc       0x1c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(hardware.o)
+                0x00904cfc                get_freq
+
+.text.freq_populate
+                0x00904d18       0xa4
+ .text.freq_populate
+                0x00904d18       0xa4 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(hardware.o)
+                0x00904d18                freq_populate
+
+.text.mx6_get_cpu_type
+                0x00904dbc      0x1d0
+ .text.mx6_get_cpu_type
+                0x00904dbc      0x1d0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(psp.o)
+
+.text.get_chip_type
+                0x00904f8c       0x10
+ .text.get_chip_type
+                0x00904f8c       0x10 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(psp.o)
+                0x00904f8c                get_chip_type
+
+.text.get_usdhc_port
+                0x00904f9c       0x7c
+ .text.get_usdhc_port
+                0x00904f9c       0x7c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(psp.o)
+                0x00904f9c                get_usdhc_port
+
+.text.get_usdhc_base
+                0x00905018       0x70
+ .text.get_usdhc_base
+                0x00905018       0x70 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(psp.o)
+                0x00905018                get_usdhc_base
+
+.text.psp_get_spi_base
+                0x00905088       0x38
+ .text.psp_get_spi_base
+                0x00905088       0x38 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(psp.o)
+                0x00905088                psp_get_spi_base
+
+.text.psp_get_i2c_base
+                0x009050c0       0x3c
+ .text.psp_get_i2c_base
+                0x009050c0       0x3c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(psp.o)
+                0x009050c0                psp_get_i2c_base
+
+.text.qspi_get_instance
+                0x009050fc       0x38
+ .text.qspi_get_instance
+                0x009050fc       0x38 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(psp.o)
+                0x009050fc                qspi_get_instance
+
+.text.qspi_get_index
+                0x00905134       0x40
+ .text.qspi_get_index
+                0x00905134       0x40 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(psp.o)
+                0x00905134                qspi_get_index
+
+.text.qspi_map_memory_base
+                0x00905174       0x40
+ .text.qspi_map_memory_base
+                0x00905174       0x40 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(psp.o)
+                0x00905174                qspi_map_memory_base
+
+.text.platform_init
+                0x009051b4      0x220
+ .text.platform_init
+                0x009051b4      0x220 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(psp.o)
+                0x009051b4                platform_init
+
+.text.psp_qspi_iomux_config
+                0x009053d4       0xb4
+ .text.psp_qspi_iomux_config
+                0x009053d4       0xb4 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(psp.o)
+                0x009053d4                psp_qspi_iomux_config
+
+.text.start_pmccntr
+                0x00905488       0x24
+ .text.start_pmccntr
+                0x00905488       0x24 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(arm_v7.o)
+                0x00905488                start_pmccntr
+
+.text.read_stop_pmccntr
+                0x009054ac       0x30
+ .text.read_stop_pmccntr
+                0x009054ac       0x30 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(arm_v7.o)
+                0x009054ac                read_stop_pmccntr
+
+.text.boot_cfg_override
+                0x009054dc      0x1d8
+ .text.boot_cfg_override
+                0x009054dc      0x1d8 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(boot_cfg.o)
+                0x009054dc                boot_cfg_override
+
+.text.psp_rom_get_symble
+                0x009056b4      0xff8
+ .text.psp_rom_get_symble
+                0x009056b4      0xff8 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(rom_symbols.o)
+                0x009056b4                psp_rom_get_symble
+
+.text.dcc3_get_term_status
+                0x009066ac       0x20
+ .text.dcc3_get_term_status
+                0x009066ac       0x20 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(cortexa_dcc3.o)
+                0x009066ac                dcc3_get_term_status
+
+.text.dcc3_put_block
+                0x009066cc       0x84
+ .text.dcc3_put_block
+                0x009066cc       0x84 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(cortexa_dcc3.o)
+                0x009066cc                dcc3_put_block
+
+.text.dcc3_get_block
+                0x00906750      0x128
+ .text.dcc3_get_block
+                0x00906750      0x128 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(cortexa_dcc3.o)
+                0x00906750                dcc3_get_block
+
+.text.term_getchar
+                0x00906878       0x20
+ .text.term_getchar
+                0x00906878       0x20 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(term.o)
+                0x00906878                term_getchar
+
+.text.term_putchar
+                0x00906898       0x1c
+ .text.term_putchar
+                0x00906898       0x1c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(term.o)
+                0x00906898                term_putchar
+
+.text.term_puts
+                0x009068b4       0x34
+ .text.term_puts
+                0x009068b4       0x34 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(term.o)
+                0x009068b4                term_puts
+
+.text.Delay4Busy
+                0x009068e8       0x54
+ .text.Delay4Busy
+                0x009068e8       0x54 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(ocotp.o)
+
+.text.Delay4Reload
+                0x0090693c       0x54
+ .text.Delay4Reload
+                0x0090693c       0x54 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(ocotp.o)
+                0x0090693c                Delay4Reload
+
+.text.ReadOTPValues
+                0x00906990       0x9c
+ .text.ReadOTPValues
+                0x00906990       0x9c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(ocotp.o)
+
+.text.WriteOTPValues
+                0x00906a2c       0xe0
+ .text.WriteOTPValues
+                0x00906a2c       0xe0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(ocotp.o)
+
+.text.ocotp_sense_fuse
+                0x00906b0c       0x48
+ .text.ocotp_sense_fuse
+                0x00906b0c       0x48 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(ocotp.o)
+                0x00906b0c                ocotp_sense_fuse
+
+.text.ocotp_fuse_blow_row
+                0x00906b54       0x38
+ .text.ocotp_fuse_blow_row
+                0x00906b54       0x38 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(ocotp.o)
+                0x00906b54                ocotp_fuse_blow_row
+
+.text.ocotp_reload_otp_shadow_registers
+                0x00906b8c       0x58
+ .text.ocotp_reload_otp_shadow_registers
+                0x00906b8c       0x58 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(ocotp.o)
+                0x00906b8c                ocotp_reload_otp_shadow_registers
+
+.text.ref_clock
+                0x00906be4       0x1c
+ .text.ref_clock
+                0x00906be4       0x1c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(timer.o)
+                0x00906be4                ref_clock
+
+.text.init_clock
+                0x00906c00       0x7c
+ .text.init_clock
+                0x00906c00       0x7c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(timer.o)
+                0x00906c00                init_clock
+
+.text.GPT_init  0x00906c7c       0x74
+ .text.GPT_init
+                0x00906c7c       0x74 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(timer.o)
+                0x00906c7c                GPT_init
+
+.text.GPT_delay
+                0x00906cf0       0x48
+ .text.GPT_delay
+                0x00906cf0       0x48 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(timer.o)
+                0x00906cf0                GPT_delay
+
+.text.GPT_status
+                0x00906d38       0x4c
+ .text.GPT_status
+                0x00906d38       0x4c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(timer.o)
+                0x00906d38                GPT_status
+
+.text.GPT_reset_delay
+                0x00906d84       0x48
+ .text.GPT_reset_delay
+                0x00906d84       0x48 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(timer.o)
+                0x00906d84                GPT_reset_delay
+
+.text.GPT_disable
+                0x00906dcc       0x44
+ .text.GPT_disable
+                0x00906dcc       0x44 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(timer.o)
+                0x00906dcc                GPT_disable
+
+.text.hal_delay_us
+                0x00906e10       0x64
+ .text.hal_delay_us
+                0x00906e10       0x64 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(timer.o)
+                0x00906e10                hal_delay_us
+
+.text.hal_set_timer_timeout
+                0x00906e74       0x50
+ .text.hal_set_timer_timeout
+                0x00906e74       0x50 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(timer.o)
+                0x00906e74                hal_set_timer_timeout
+
+.text.hal_is_timer_timeout
+                0x00906ec4       0x24
+ .text.hal_is_timer_timeout
+                0x00906ec4       0x24 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(timer.o)
+                0x00906ec4                hal_is_timer_timeout
+
+.text.pad_configuration_setup
+                0x00906ee8      0x144
+ .text.pad_configuration_setup
+                0x00906ee8      0x144 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(iomuxc.o)
+
+.text.module_iomux_configuration_setup
+                0x0090702c       0x50
+ .text.module_iomux_configuration_setup
+                0x0090702c       0x50 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(iomuxc.o)
+                0x0090702c                module_iomux_configuration_setup
+
+.text.imx_ecspi_start
+                0x0090707c       0x6c
+ .text.imx_ecspi_start
+                0x0090707c       0x6c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_ecspi.o)
+
+.text.imx_ecspi_stop
+                0x009070e8       0x20
+ .text.imx_ecspi_stop
+                0x009070e8       0x20 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_ecspi.o)
+
+.text.imx_ecspi_xfer
+                0x00907108      0x174
+ .text.imx_ecspi_xfer
+                0x00907108      0x174 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_ecspi.o)
+                0x00907108                imx_ecspi_xfer
+
+.text.is_bus_free
+                0x0090727c       0x5c
+ .text.is_bus_free
+                0x0090727c       0x5c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_i2c.o)
+
+.text.wait_till_busy
+                0x009072d8       0x80
+ .text.wait_till_busy
+                0x009072d8       0x80 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_i2c.o)
+
+.text.imx_send_stop
+                0x00907358       0x2c
+ .text.imx_send_stop
+                0x00907358       0x2c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_i2c.o)
+
+.text.wait_op_done
+                0x00907384       0x90
+ .text.wait_op_done
+                0x00907384       0x90 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_i2c.o)
+
+.text.wait_ack_done
+                0x00907414       0xc4
+ .text.wait_ack_done
+                0x00907414       0xc4 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_i2c.o)
+                0x00907414                wait_ack_done
+
+.text.tx_byte   0x009074d8       0x4c
+ .text.tx_byte  0x009074d8       0x4c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_i2c.o)
+
+.text.rx_bytes  0x00907524       0x94
+ .text.rx_bytes
+                0x00907524       0x94 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_i2c.o)
+
+.text.i2c_xfer  0x009075b8      0x280
+ .text.i2c_xfer
+                0x009075b8      0x280 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_i2c.o)
+                0x009075b8                i2c_xfer
+
+.text.qspi_host_reset
+                0x00907838       0x74
+ .text.qspi_host_reset
+                0x00907838       0x74 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(qspi.o)
+                0x00907838                qspi_host_reset
+
+.text.qspi_config
+                0x009078ac      0x1f0
+ .text.qspi_config
+                0x009078ac      0x1f0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(qspi.o)
+                0x009078ac                qspi_config
+
+.text.qspi_unlock_lut
+                0x00907a9c       0x2c
+ .text.qspi_unlock_lut
+                0x00907a9c       0x2c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(qspi.o)
+
+.text.qspi_lock_lut
+                0x00907ac8       0x2c
+ .text.qspi_lock_lut
+                0x00907ac8       0x2c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(qspi.o)
+
+.text.qspi_setupLUT
+                0x00907af4      0x204
+ .text.qspi_setupLUT
+                0x00907af4      0x204 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(qspi.o)
+
+.text.qspi_wait_cmd
+                0x00907cf8       0x34
+ .text.qspi_wait_cmd
+                0x00907cf8       0x34 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(qspi.o)
+                0x00907cf8                qspi_wait_cmd
+
+.text.qspi_clear_tx_buf
+                0x00907d2c       0x20
+ .text.qspi_clear_tx_buf
+                0x00907d2c       0x20 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(qspi.o)
+                0x00907d2c                qspi_clear_tx_buf
+
+.text.qspi_clear_rx_buf
+                0x00907d4c       0x20
+ .text.qspi_clear_rx_buf
+                0x00907d4c       0x20 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(qspi.o)
+                0x00907d4c                qspi_clear_rx_buf
+
+.text.qspi_wait_fifo_ready
+                0x00907d6c       0x24
+ .text.qspi_wait_fifo_ready
+                0x00907d6c       0x24 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(qspi.o)
+                0x00907d6c                qspi_wait_fifo_ready
+
+.text.qspi_wait_idle
+                0x00907d90       0x24
+ .text.qspi_wait_idle
+                0x00907d90       0x24 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(qspi.o)
+                0x00907d90                qspi_wait_idle
+
+.text.qspi_write_enable
+                0x00907db4       0x48
+ .text.qspi_write_enable
+                0x00907db4       0x48 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(qspi.o)
+                0x00907db4                qspi_write_enable
+
+.text.qspi_write_disable
+                0x00907dfc       0x30
+ .text.qspi_write_disable
+                0x00907dfc       0x30 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(qspi.o)
+                0x00907dfc                qspi_write_disable
+
+.text.qspi_write_status
+                0x00907e2c       0x58
+ .text.qspi_write_status
+                0x00907e2c       0x58 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(qspi.o)
+                0x00907e2c                qspi_write_status
+
+.text.qspi_read_id
+                0x00907e84       0x3c
+ .text.qspi_read_id
+                0x00907e84       0x3c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(qspi.o)
+                0x00907e84                qspi_read_id
+
+.text.qspi_select_ip_rx_buf
+                0x00907ec0       0x24
+ .text.qspi_select_ip_rx_buf
+                0x00907ec0       0x24 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(qspi.o)
+                0x00907ec0                qspi_select_ip_rx_buf
+
+.text.qspi_select_ahb_rx_buf
+                0x00907ee4       0x24
+ .text.qspi_select_ahb_rx_buf
+                0x00907ee4       0x24 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(qspi.o)
+                0x00907ee4                qspi_select_ahb_rx_buf
+
+.text.qspi_read_status
+                0x00907f08       0x6c
+ .text.qspi_read_status
+                0x00907f08       0x6c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(qspi.o)
+                0x00907f08                qspi_read_status
+
+.text.qspi_read_config
+                0x00907f74       0x6c
+ .text.qspi_read_config
+                0x00907f74       0x6c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(qspi.o)
+                0x00907f74                qspi_read_config
+
+.text.qspi_enable_quad_bit
+                0x00907fe0       0x70
+ .text.qspi_enable_quad_bit
+                0x00907fe0       0x70 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(qspi.o)
+                0x00907fe0                qspi_enable_quad_bit
+
+.text.qspi_chip_erase
+                0x00908050       0xf8
+ .text.qspi_chip_erase
+                0x00908050       0xf8 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(qspi.o)
+                0x00908050                qspi_chip_erase
+
+.text.qspi_sector_erase
+                0x00908148       0x64
+ .text.qspi_sector_erase
+                0x00908148       0x64 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(qspi.o)
+                0x00908148                qspi_sector_erase
+
+.text.qspi_write_non_volatile
+                0x009081ac       0x8c
+ .text.qspi_write_non_volatile
+                0x009081ac       0x8c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(qspi.o)
+                0x009081ac                qspi_write_non_volatile
+
+.text.qspi_program
+                0x00908238      0x198
+ .text.qspi_program
+                0x00908238      0x198 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(qspi.o)
+                0x00908238                qspi_program
+
+.text.qspi_init
+                0x009083d0       0x5c
+ .text.qspi_init
+                0x009083d0       0x5c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(qspi.o)
+                0x009083d0                qspi_init
+
+.text.printQspiSpecs
+                0x0090842c       0x54
+ .text.printQspiSpecs
+                0x0090842c       0x54 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(quadspi_test.o)
+
+.text.quadspi_test_init
+                0x00908480      0x160
+ .text.quadspi_test_init
+                0x00908480      0x160 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(quadspi_test.o)
+                0x00908480                quadspi_test_init
+
+.text.quadspi_test_program
+                0x009085e0      0x11c
+ .text.quadspi_test_program
+                0x009085e0      0x11c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(quadspi_test.o)
+                0x009085e0                quadspi_test_program
+
+.text.quadspi_test_erase_whole
+                0x009086fc       0x64
+ .text.quadspi_test_erase_whole
+                0x009086fc       0x64 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(quadspi_test.o)
+                0x009086fc                quadspi_test_erase_whole
+
+.text.quadspi_test_erase_sector
+                0x00908760       0x68
+ .text.quadspi_test_erase_sector
+                0x00908760       0x68 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(quadspi_test.o)
+                0x00908760                quadspi_test_erase_sector
+
+.text.quadspi_test_data_check
+                0x009087c8      0x100
+ .text.quadspi_test_data_check
+                0x009087c8      0x100 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(quadspi_test.o)
+                0x009087c8                quadspi_test_data_check
+
+.text.at24cx_read
+                0x009088c8       0x90
+ .text.at24cx_read
+                0x009088c8       0x90 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(at24cxx.o)
+                0x009088c8                at24cx_read
+
+.text.at24cx_write
+                0x00908958       0x90
+ .text.at24cx_write
+                0x00908958       0x90 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(at24cxx.o)
+                0x00908958                at24cx_write
+
+.text.spi_nor_status_atmel
+                0x009089e8       0x48
+ .text.spi_nor_status_atmel
+                0x009089e8       0x48 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor_atmel.o)
+
+.text.spi_nor_write_atmel
+                0x00908a30      0x44c
+ .text.spi_nor_write_atmel
+                0x00908a30      0x44c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor_atmel.o)
+                0x00908a30                spi_nor_write_atmel
+
+.text.atmel_erase_pbs
+                0x00908e7c       0xac
+ .text.atmel_erase_pbs
+                0x00908e7c       0xac /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor_atmel.o)
+
+.text.atmel_erase_chip
+                0x00908f28       0x58
+ .text.atmel_erase_chip
+                0x00908f28       0x58 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor_atmel.o)
+
+.text.spi_nor_erase_atmel
+                0x00908f80      0x11c
+ .text.spi_nor_erase_atmel
+                0x00908f80      0x11c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor_atmel.o)
+                0x00908f80                spi_nor_erase_atmel
+
+.text.spi_nor_read_atmel
+                0x0090909c      0x258
+ .text.spi_nor_read_atmel
+                0x0090909c      0x258 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor_atmel.o)
+                0x0090909c                spi_nor_read_atmel
+
+.text.spi_nor_get_id
+                0x009092f4       0x5c
+ .text.spi_nor_get_id
+                0x009092f4       0x5c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor.o)
+                0x009092f4                spi_nor_get_id
+
+.text.spi_nor_init
+                0x00909350      0x16c
+ .text.spi_nor_init
+                0x00909350      0x16c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor.o)
+                0x00909350                spi_nor_init
+
+.text.spi_nor_write
+                0x009094bc       0x50
+ .text.spi_nor_write
+                0x009094bc       0x50 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor.o)
+                0x009094bc                spi_nor_write
+
+.text.spi_nor_read
+                0x0090950c       0x50
+ .text.spi_nor_read
+                0x0090950c       0x50 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor.o)
+                0x0090950c                spi_nor_read
+
+.text.spi_nor_erase
+                0x0090955c       0x4c
+ .text.spi_nor_erase
+                0x0090955c       0x4c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor.o)
+                0x0090955c                spi_nor_erase
+
+.text.spi_nor_status_numonyx
+                0x009095a8       0x48
+ .text.spi_nor_status_numonyx
+                0x009095a8       0x48 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor_numonyx.o)
+
+.text.spi_nor_wren_numonyx
+                0x009095f0       0x44
+ .text.spi_nor_wren_numonyx
+                0x009095f0       0x44 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor_numonyx.o)
+
+.text.spi_nor_write_numonyx
+                0x00909634      0x394
+ .text.spi_nor_write_numonyx
+                0x00909634      0x394 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor_numonyx.o)
+                0x00909634                spi_nor_write_numonyx
+
+.text.numonyx_erase_sector
+                0x009099c8       0x94
+ .text.numonyx_erase_sector
+                0x009099c8       0x94 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor_numonyx.o)
+
+.text.numonyx_erase_chip
+                0x00909a5c       0x58
+ .text.numonyx_erase_chip
+                0x00909a5c       0x58 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor_numonyx.o)
+
+.text.spi_nor_erase_numonyx
+                0x00909ab4       0x64
+ .text.spi_nor_erase_numonyx
+                0x00909ab4       0x64 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor_numonyx.o)
+                0x00909ab4                spi_nor_erase_numonyx
+
+.text.spi_nor_read_numonyx
+                0x00909b18      0x258
+ .text.spi_nor_read_numonyx
+                0x00909b18      0x258 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor_numonyx.o)
+                0x00909b18                spi_nor_read_numonyx
+
+.text.nor_boot_chip_cfg
+                0x00909d70      0x118
+ .text.nor_boot_chip_cfg
+                0x00909d70      0x118 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor.o)
+                0x00909d70                nor_boot_chip_cfg
+
+.text.nor_probe
+                0x00909e88      0x10c
+ .text.nor_probe
+                0x00909e88      0x10c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor.o)
+                0x00909e88                nor_probe
+
+.text.nor_cfg_dump
+                0x00909f94       0xb4
+ .text.nor_cfg_dump
+                0x00909f94       0xb4 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor.o)
+                0x00909f94                nor_cfg_dump
+
+.text.send_cmd_w
+                0x0090a048       0x58
+ .text.send_cmd_w
+                0x0090a048       0x2c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_cmdset0.o)
+ .text.send_cmd_w
+                0x0090a074       0x2c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_cmdset1.o)
+
+.text.get_data_w
+                0x0090a0a0       0x58
+ .text.get_data_w
+                0x0090a0a0       0x2c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_cmdset0.o)
+ .text.get_data_w
+                0x0090a0cc       0x2c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_cmdset1.o)
+
+.text.nor_reset
+                0x0090a0f8       0x28
+ .text.nor_reset
+                0x0090a0f8       0x14 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_cmdset0.o)
+ .text.nor_reset
+                0x0090a10c       0x14 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_cmdset1.o)
+
+.text.nor_unlock
+                0x0090a120       0x64
+ .text.nor_unlock
+                0x0090a120       0x28 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_cmdset0.o)
+ .text.nor_unlock
+                0x0090a148       0x3c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_cmdset1.o)
+
+.text.nor_read_id
+                0x0090a184       0xb4
+ .text.nor_read_id
+                0x0090a184       0x74 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_cmdset0.o)
+ .text.nor_read_id
+                0x0090a1f8       0x40 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_cmdset1.o)
+
+.text.nor_wait_for_ready
+                0x0090a238      0x1bc
+ .text.nor_wait_for_ready
+                0x0090a238       0x9c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_cmdset0.o)
+ .text.nor_wait_for_ready
+                0x0090a2d4      0x120 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_cmdset1.o)
+
+.text.nor_erase_block
+                0x0090a3f4       0xf0
+ .text.nor_erase_block
+                0x0090a3f4       0x88 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_cmdset0.o)
+ .text.nor_erase_block
+                0x0090a47c       0x68 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_cmdset1.o)
+
+.text.nor_erase_chip
+                0x0090a4e4       0x68
+ .text.nor_erase_chip
+                0x0090a4e4       0x68 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_cmdset0.o)
+
+.text.nor_read_words
+                0x0090a54c       0xe0
+ .text.nor_read_words
+                0x0090a54c       0x6c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_cmdset0.o)
+ .text.nor_read_words
+                0x0090a5b8       0x74 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_cmdset1.o)
+
+.text.nor_write_words
+                0x0090a62c      0x1b8
+ .text.nor_write_words
+                0x0090a62c       0xb0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_cmdset0.o)
+ .text.nor_write_words
+                0x0090a6dc      0x108 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_cmdset1.o)
+
+.text.do_ocotp  0x0090a7e4      0x10c
+ .text.do_ocotp
+                0x0090a7e4      0x10c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(ocotp_utility.o)
+                0x0090a7e4                do_ocotp
+
+.text.main      0x0090a8f0       0x94
+ .text.main     0x0090a8f0       0x94 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(main.o)
+                0x0090a8f0                main
+
+.text.spinor_tool_help_list
+                0x0090a984       0xf8
+ .text.spinor_tool_help_list
+                0x0090a984       0xf8 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(flash_utility.o)
+
+.text.flash_spinor_init
+                0x0090aa7c       0xc0
+ .text.flash_spinor_init
+                0x0090aa7c       0xc0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(flash_utility.o)
+
+.text.do_spinor
+                0x0090ab3c      0x684
+ .text.do_spinor
+                0x0090ab3c      0x684 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(flash_utility.o)
+                0x0090ab3c                do_spinor
+
+.text.do_i2c_eeprom
+                0x0090b1c0      0x5d4
+ .text.do_i2c_eeprom
+                0x0090b1c0      0x5d4 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(flash_utility.o)
+                0x0090b1c0                do_i2c_eeprom
+
+.text.qspi_tool_help_list
+                0x0090b794      0x14c
+ .text.qspi_tool_help_list
+                0x0090b794      0x14c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(flash_utility.o)
+
+.text.do_qspinor
+                0x0090b8e0      0x990
+ .text.do_qspinor
+                0x0090b8e0      0x990 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(flash_utility.o)
+                0x0090b8e0                do_qspinor
+
+.text.do_rom_patch
+                0x0090c270       0x98
+ .text.do_rom_patch
+                0x0090c270       0x98 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(romp_utility.o)
+                0x0090c270                do_rom_patch
+
+.text.do_mr     0x0090c308      0x110
+ .text.do_mr    0x0090c308      0x110 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(common_utility.o)
+                0x0090c308                do_mr
+
+.text.do_mw     0x0090c418       0xa4
+ .text.do_mw    0x0090c418       0xa4 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(common_utility.o)
+                0x0090c418                do_mw
+
+.text.cmd_nor_info
+                0x0090c4bc       0x10
+ .text.cmd_nor_info
+                0x0090c4bc       0x10 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_utility.o)
+                0x0090c4bc                cmd_nor_info
+
+.text.cmd_nor_erase
+                0x0090c4cc       0xac
+ .text.cmd_nor_erase
+                0x0090c4cc       0xac /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_utility.o)
+                0x0090c4cc                cmd_nor_erase
+
+.text.cmd_nor_read
+                0x0090c578      0x188
+ .text.cmd_nor_read
+                0x0090c578      0x188 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_utility.o)
+                0x0090c578                cmd_nor_read
+
+.text.cmd_nor_write
+                0x0090c700       0x7c
+ .text.cmd_nor_write
+                0x0090c700       0x7c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_utility.o)
+                0x0090c700                cmd_nor_write
+
+.text.cmd_nor_burn
+                0x0090c77c       0xf4
+ .text.cmd_nor_burn
+                0x0090c77c       0xf4 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_utility.o)
+                0x0090c77c                cmd_nor_burn
+
+.text.do_nor    0x0090c870      0x310
+ .text.do_nor   0x0090c870      0x310 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_utility.o)
+                0x0090c870                do_nor
+
+.text.cmd_line_process
+                0x0090cb80       0xa8
+ .text.cmd_line_process
+                0x0090cb80       0xa8 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(shell.o)
+                0x0090cb80                cmd_line_process
+
+.text.shell_task_loop
+                0x0090cc28      0x424
+ .text.shell_task_loop
+                0x0090cc28      0x424 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(shell.o)
+                0x0090cc28                shell_task_loop
+
+.text.do_help   0x0090d04c       0xe8
+ .text.do_help  0x0090d04c       0xe8 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(shell.o)
+                0x0090d04c                do_help
+
+.text.crc32     0x0090d134       0x70
+ .text.crc32    0x0090d134       0x70 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(crc.o)
+                0x0090d134                crc32
+
+.text.do_crc32  0x0090d1a4       0xb0
+ .text.do_crc32
+                0x0090d1a4       0xb0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(crc.o)
+                0x0090d1a4                do_crc32
+
+.rodata         0x0090d254     0x1c7c
+ .rodata        0x0090d254        0x4 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(hardware.o)
+ .rodata        0x0090d258      0x108 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(psp.o)
+ .rodata        0x0090d360       0x58 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(boot_cfg.o)
+ .rodata        0x0090d3b8       0x1c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(rom_symbols.o)
+ .rodata        0x0090d3d4       0x34 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(ocotp.o)
+ .rodata        0x0090d408      0x114 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(timer.o)
+ .rodata        0x0090d51c       0xa0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_ecspi.o)
+ .rodata        0x0090d5bc       0xe8 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_i2c.o)
+ .rodata        0x0090d6a4       0x94 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(qspi.o)
+ .rodata        0x0090d738      0x184 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(quadspi_test.o)
+ .rodata        0x0090d8bc       0xd4 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor_atmel.o)
+ .rodata        0x0090d990       0x4c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor.o)
+ .rodata        0x0090d9dc       0x68 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor_numonyx.o)
+ .rodata        0x0090da44      0x134 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor.o)
+ .rodata        0x0090db78       0x40 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_cmdset0.o)
+ .rodata        0x0090dbb8      0x148 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_cmdset1.o)
+ .rodata        0x0090dd00       0x88 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(ocotp_utility.o)
+ .rodata        0x0090dd88       0xbc /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(main.o)
+ .rodata        0x0090de44      0xbf8 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(flash_utility.o)
+ .rodata        0x0090ea3c       0x58 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(romp_utility.o)
+ .rodata        0x0090ea94       0xd0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(common_utility.o)
+ .rodata        0x0090eb64      0x250 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_utility.o)
+ .rodata        0x0090edb4       0x90 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(shell.o)
+ .rodata        0x0090ee44       0x8c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(crc.o)
+
+.rel.dyn        0x0090eed0        0x0
+ .rel.iplt      0x00000000        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(vectors.o)
+
+.shell_cmd      0x0090eed0       0x78
+                0x0090eed0                . = ALIGN (0x4)
+                0x0090eed0                __shell_cmds_beginning = .
+ *(.shell_cmd)
+ .shell_cmd     0x0090eed0        0xc /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(ocotp_utility.o)
+                0x0090eed0                shell_cmd_ocotp
+ .shell_cmd     0x0090eedc       0x24 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(flash_utility.o)
+                0x0090eedc                shell_cmd_eeprom
+                0x0090eee8                shell_cmd_qspinor
+                0x0090eef4                shell_cmd_spinor
+ .shell_cmd     0x0090ef00        0xc /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(romp_utility.o)
+                0x0090ef00                shell_cmd_rom_patch
+ .shell_cmd     0x0090ef0c       0x18 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(common_utility.o)
+                0x0090ef0c                shell_cmd_mr
+                0x0090ef18                shell_cmd_mw
+ .shell_cmd     0x0090ef24        0xc /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_utility.o)
+                0x0090ef24                shell_cmd_nor
+ .shell_cmd     0x0090ef30        0xc /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(shell.o)
+                0x0090ef30                shell_cmd_help
+ .shell_cmd     0x0090ef3c        0xc /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(crc.o)
+                0x0090ef3c                shell_cmd_crc32
+                0x0090ef48                __shell_cmds_end = .
+
+.data           0x0090ef48     0x1520
+ *(*.*data*.*)
+ .rodata.hex_asc_table
+                0x0090ef48       0x10 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(stdio_func.o)
+                0x0090ef48                hex_asc_table
+ .rodata.upper_hex_asc_table
+                0x0090ef58       0x10 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(stdio_func.o)
+                0x0090ef58                upper_hex_asc_table
+ .data.mx6dq_usdhc1_pad
+                0x0090ef68       0x38 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6dq_iomux.o)
+ .data.mx6dq_usdhc2_pad
+                0x0090efa0       0x38 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6dq_iomux.o)
+ .data.mx6dq_usdhc3_pad
+                0x0090efd8       0x38 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6dq_iomux.o)
+ .data.mx6dq_usdhc4_pad
+                0x0090f010       0x38 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6dq_iomux.o)
+ .data.USDHC_mx6dq_iomux_cfg
+                0x0090f048       0x10 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6dq_iomux.o)
+                0x0090f048                USDHC_mx6dq_iomux_cfg
+ .data.mx6dl_usdhc1_pad
+                0x0090f058       0x38 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6dl_iomux.o)
+ .data.mx6dl_usdhc2_pad
+                0x0090f090       0x38 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6dl_iomux.o)
+ .data.mx6dl_usdhc3_pad
+                0x0090f0c8       0x38 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6dl_iomux.o)
+                0x0090f0c8                mx6dl_usdhc3_pad
+ .data.mx6dl_usdhc4_pad
+                0x0090f100       0x38 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6dl_iomux.o)
+ .data.USDHC_mx6dl_iomux_cfg
+                0x0090f138       0x10 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6dl_iomux.o)
+                0x0090f138                USDHC_mx6dl_iomux_cfg
+ .data.mx6sl_usdhc1_pad
+                0x0090f148       0x38 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6sl_iomux.o)
+ .data.mx6sl_usdhc2_pad
+                0x0090f180       0x38 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6sl_iomux.o)
+ .data.mx6sl_usdhc3_pad
+                0x0090f1b8       0x38 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6sl_iomux.o)
+ .data.USDHC_mx6sl_iomux_cfg
+                0x0090f1f0       0x10 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6sl_iomux.o)
+                0x0090f1f0                USDHC_mx6sl_iomux_cfg
+ .data.mx6sx_usdhc2_pad
+                0x0090f200       0x38 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6sx_iomux.o)
+ .data.mx6sx_usdhc3_pad
+                0x0090f238       0x38 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6sx_iomux.o)
+ .data.mx6sx_usdhc4_pad
+                0x0090f270       0x38 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6sx_iomux.o)
+ .data.USDHC_mx6sx_iomux_cfg
+                0x0090f2a8       0x10 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6sx_iomux.o)
+                0x0090f2a8                USDHC_mx6sx_iomux_cfg
+ .data.mx6sx_qspi1_pad
+                0x0090f2b8       0x88 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6sx_iomux.o)
+ .data.mx6sx_qspi2_pad
+                0x0090f340       0x88 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6sx_iomux.o)
+ .data.QSPI_mx6sx_iomux_cfg
+                0x0090f3c8        0x8 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6sx_iomux.o)
+                0x0090f3c8                QSPI_mx6sx_iomux_cfg
+ .data.NAND_mx6sx_iomux_cfg
+                0x0090f3d0       0x18 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6sx_iomux.o)
+                0x0090f3d0                NAND_mx6sx_iomux_cfg
+ .data.mx6ul_qspi1_pad
+                0x0090f3e8       0x88 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6ul_iomux.o)
+ .data.QSPI_mx6ul_iomux_cfg
+                0x0090f470        0x4 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6ul_iomux.o)
+                0x0090f470                QSPI_mx6ul_iomux_cfg
+ *fill*         0x0090f474        0x4 00
+ .data.mx6ull_qspi1_pad
+                0x0090f478       0x88 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6ull_iomux.o)
+ .data.QSPI_mx6ull_iomux_cfg
+                0x0090f500        0x4 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6ull_iomux.o)
+                0x0090f500                QSPI_mx6ull_iomux_cfg
+ *fill*         0x0090f504        0x4 00
+ .data.NAND_mx6ull_iomux_cfg_bad
+                0x0090f508       0x88 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6ull_iomux.o)
+                0x0090f508                NAND_mx6ull_iomux_cfg_bad
+ .data.mx6sll_usdhc1_pad
+                0x0090f590       0x38 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6sll_iomux.o)
+ .data.mx6sll_usdhc2_pad
+                0x0090f5c8       0x38 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6sll_iomux.o)
+ .data.mx6sll_usdhc3_pad
+                0x0090f600       0x38 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6sll_iomux.o)
+ .data.USDHC_mx6sll_iomux_cfg
+                0x0090f638       0x10 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6sll_iomux.o)
+                0x0090f638                USDHC_mx6sll_iomux_cfg
+ .data.core     0x0090f648        0xc /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(hardware.o)
+                0x0090f648                core
+ .data.mx6x_module
+                0x0090f654        0x8 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(hardware.o)
+                0x0090f654                mx6x_module
+ .data.soc_mem_map_OCOTP_base
+                0x0090f65c       0x18 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(platform.o)
+                0x0090f65c                soc_mem_map_OCOTP_base
+ .data.soc_mem_map_IOMUXC_base
+                0x0090f674       0x18 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(platform.o)
+                0x0090f674                soc_mem_map_IOMUXC_base
+ .data.soc_mem_map_USDHC1_base
+                0x0090f68c       0x18 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(platform.o)
+                0x0090f68c                soc_mem_map_USDHC1_base
+ .data.soc_mem_map_USDHC2_base
+                0x0090f6a4       0x18 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(platform.o)
+                0x0090f6a4                soc_mem_map_USDHC2_base
+ .data.soc_mem_map_USDHC3_base
+                0x0090f6bc       0x18 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(platform.o)
+                0x0090f6bc                soc_mem_map_USDHC3_base
+ .data.soc_mem_map_USDHC4_base
+                0x0090f6d4       0x18 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(platform.o)
+                0x0090f6d4                soc_mem_map_USDHC4_base
+ .data.soc_mem_map_WEIM_CS_base
+                0x0090f6ec       0x18 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(platform.o)
+                0x0090f6ec                soc_mem_map_WEIM_CS_base
+ .data.iomux_NAND_cfg_tbl
+                0x0090f704       0x18 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(platform.o)
+                0x0090f704                iomux_NAND_cfg_tbl
+ .data.soc_mem_map_APBH_DMA_base
+                0x0090f71c       0x18 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(platform.o)
+                0x0090f71c                soc_mem_map_APBH_DMA_base
+ .data.soc_mem_map_GPMI_base
+                0x0090f734       0x18 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(platform.o)
+                0x0090f734                soc_mem_map_GPMI_base
+ .data.soc_mem_map_BCH_base
+                0x0090f74c       0x18 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(platform.o)
+                0x0090f74c                soc_mem_map_BCH_base
+ .data.soc_mem_map_USB_base
+                0x0090f764       0x18 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(platform.o)
+                0x0090f764                soc_mem_map_USB_base
+ .rodata.__FUNCTION__.4250
+                0x0090f77c       0x14 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor_atmel.o)
+ .data.imx_spi_nor
+                0x0090f790       0x30 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor.o)
+                0x0090f790                imx_spi_nor
+ .data.nor_list
+                0x0090f7c0       0x60 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor.o)
+                0x0090f7c0                nor_list
+ .data.nor_cfg_table
+                0x0090f820       0x90 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor.o)
+                0x0090f820                nor_cfg_table
+ .data.nor_boot
+                0x0090f8b0       0x8c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor.o)
+ .data.nor_cmdset0
+                0x0090f93c       0x1c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_cmdset0.o)
+                0x0090f93c                nor_cmdset0
+ .data.nor_cmdset1
+                0x0090f958       0x1c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_cmdset1.o)
+                0x0090f958                nor_cmdset1
+ .data.ocotp_help
+                0x0090f974      0x10c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(ocotp_utility.o)
+                0x0090f974                ocotp_help
+ .data.nor_help
+                0x0090fa80      0x288 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_utility.o)
+                0x0090fa80                nor_help
+ .data.cmd      0x0090fd08      0x35c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_utility.o)
+ .rodata.crc32_poly
+                0x00910064        0x4 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(crc.o)
+                0x00910064                crc32_poly
+ .rodata.CRCTable
+                0x00910068      0x400 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(crc.o)
+                0x00910068                CRCTable
+ .data          0x00910468        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(vectors.o)
+ .data          0x00910468        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(init.o)
+ .data          0x00910468        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(stdio_func.o)
+ .data          0x00910468        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6dq_iomux.o)
+ .data          0x00910468        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6dl_iomux.o)
+ .data          0x00910468        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6sl_iomux.o)
+ .data          0x00910468        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6sx_iomux.o)
+ .data          0x00910468        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6ul_iomux.o)
+ .data          0x00910468        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6ull_iomux.o)
+ .data          0x00910468        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6sll_iomux.o)
+ .data          0x00910468        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(hardware.o)
+ .data          0x00910468        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(platform.o)
+ .data          0x00910468        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(psp.o)
+ .data          0x00910468        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(arm_v7.o)
+ .data          0x00910468        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(boot_cfg.o)
+ .data          0x00910468        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(rom_symbols.o)
+ .data          0x00910468        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(arm_v7_cache.o)
+ .data          0x00910468        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(cortexa_dcc3.o)
+ .data          0x00910468        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(term.o)
+ .data          0x00910468        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(ocotp.o)
+ .data          0x00910468        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(timer.o)
+ .data          0x00910468        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(iomuxc.o)
+ .data          0x00910468        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_ecspi.o)
+ .data          0x00910468        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_i2c.o)
+ .data          0x00910468        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(qspi.o)
+ .data          0x00910468        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(quadspi_test.o)
+ .data          0x00910468        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(at24cxx.o)
+ .data          0x00910468        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor_atmel.o)
+ .data          0x00910468        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor.o)
+ .data          0x00910468        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor_numonyx.o)
+ .data          0x00910468        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor.o)
+ .data          0x00910468        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_cmdset0.o)
+ .data          0x00910468        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_cmdset1.o)
+ .data          0x00910468        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(ocotp_utility.o)
+ .data          0x00910468        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(main.o)
+ .data          0x00910468        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(flash_utility.o)
+ .data          0x00910468        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(romp_utility.o)
+ .data          0x00910468        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(common_utility.o)
+ .data          0x00910468        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_utility.o)
+ .data          0x00910468        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(shell.o)
+ .data          0x00910468        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(crc.o)
+ .data          0x00910468        0x0 /usr/local/gcc-arm-none-eabi-4_7/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7-ar/thumb/libgcc.a(_udivsi3.o)
+ .data          0x00910468        0x0 /usr/local/gcc-arm-none-eabi-4_7/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7-ar/thumb/libgcc.a(_dvmd_tls.o)
+
+.igot.plt       0x00910468        0x0
+ .igot.plt      0x00000000        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(vectors.o)
+
+.bss            0x00910468      0xa28
+                0x00910468                . = ALIGN (0x4)
+                0x00910468                __bss_start__ = .
+ *(.shbss)
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x00910468        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(vectors.o)
+ .bss           0x00910468        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(init.o)
+ .bss           0x00910468        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(stdio_func.o)
+ .bss           0x00910468        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6dq_iomux.o)
+ .bss.NAND_mx6dq_iomux_cfg
+                0x00910468        0x8 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6dq_iomux.o)
+                0x00910468                NAND_mx6dq_iomux_cfg
+ .bss           0x00910470        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6dl_iomux.o)
+ .bss.NAND_mx6dl_iomux_cfg
+                0x00910470        0x8 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6dl_iomux.o)
+                0x00910470                NAND_mx6dl_iomux_cfg
+ .bss           0x00910478        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6sl_iomux.o)
+ .bss.NAND_mx6sl_iomux_cfg
+                0x00910478        0x8 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6sl_iomux.o)
+                0x00910478                NAND_mx6sl_iomux_cfg
+ .bss           0x00910480        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6sx_iomux.o)
+ .bss           0x00910480        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6ul_iomux.o)
+ .bss.NAND_mx6ul_iomux_cfg
+                0x00910480        0x8 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6ul_iomux.o)
+                0x00910480                NAND_mx6ul_iomux_cfg
+ .bss           0x00910488        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6ull_iomux.o)
+ .bss.NAND_mx6ull_iomux_cfg
+                0x00910488        0x8 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6ull_iomux.o)
+                0x00910488                NAND_mx6ull_iomux_cfg
+ .bss           0x00910490        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6sll_iomux.o)
+ .bss.NAND_mx6sll_iomux_cfg
+                0x00910490        0x8 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6sll_iomux.o)
+                0x00910490                NAND_mx6sll_iomux_cfg
+ .bss           0x00910498        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(hardware.o)
+ .bss           0x00910498        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(platform.o)
+ .bss           0x00910498        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(psp.o)
+ .bss           0x00910498        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(arm_v7.o)
+ .bss           0x00910498        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(boot_cfg.o)
+ .bss           0x00910498        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(rom_symbols.o)
+ .bss           0x00910498        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(arm_v7_cache.o)
+ .bss           0x00910498        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(cortexa_dcc3.o)
+ .bss.bufsize.4074
+                0x00910498        0x4 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(cortexa_dcc3.o)
+ .bss.buf.4076  0x0091049c        0x4 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(cortexa_dcc3.o)
+ .bss.bufindex.4075
+                0x009104a0        0x4 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(cortexa_dcc3.o)
+ .bss           0x009104a4        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(term.o)
+ .bss           0x009104a4        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(ocotp.o)
+ .bss           0x009104a4        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(timer.o)
+ .bss.clock_counter
+                0x009104a4        0x4 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(timer.o)
+ .bss           0x009104a8        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(iomuxc.o)
+ .bss           0x009104a8        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_ecspi.o)
+ .bss           0x009104a8        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_i2c.o)
+ .bss           0x009104a8        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(qspi.o)
+ .bss           0x009104a8        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(quadspi_test.o)
+ .bss.qspi_init_flag_g
+                0x009104a8        0x4 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(quadspi_test.o)
+ .bss           0x009104ac        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(at24cxx.o)
+ .bss           0x009104ac        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor_atmel.o)
+ .bss           0x009104ac        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor.o)
+ .bss.spi_nor_reg
+                0x009104ac        0x8 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor.o)
+ .bss.spinor    0x009104b4        0x4 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor.o)
+                0x009104b4                spinor
+ .bss           0x009104b8        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor_numonyx.o)
+ .bss           0x009104b8        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor.o)
+ .bss.ids.4290  0x009104b8        0x4 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor.o)
+ .bss           0x009104bc        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_cmdset0.o)
+ .bss           0x009104bc        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_cmdset1.o)
+ .bss           0x009104bc        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(ocotp_utility.o)
+ .bss           0x009104bc        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(main.o)
+ .bss           0x009104bc        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(flash_utility.o)
+ .bss.spinor_init_flag
+                0x009104bc        0x4 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(flash_utility.o)
+ .bss.i2c_base  0x009104c0        0x4 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(flash_utility.o)
+                0x009104c0                i2c_base
+ .bss           0x009104c4        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(romp_utility.o)
+ .bss           0x009104c4        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(common_utility.o)
+ .bss           0x009104c4        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_utility.o)
+ .bss           0x009104c4        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(shell.o)
+ .bss.history_buf_idx
+                0x009104c4        0x4 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(shell.o)
+                0x009104c4                history_buf_idx
+ .bss.history_buf_wlk_idx
+                0x009104c8        0x4 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(shell.o)
+                0x009104c8                history_buf_wlk_idx
+ .bss.cmds_total
+                0x009104cc        0x4 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(shell.o)
+                0x009104cc                cmds_total
+ .bss           0x009104d0        0x0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(crc.o)
+ .bss           0x009104d0        0x0 /usr/local/gcc-arm-none-eabi-4_7/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7-ar/thumb/libgcc.a(_udivsi3.o)
+ .bss           0x009104d0        0x0 /usr/local/gcc-arm-none-eabi-4_7/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7-ar/thumb/libgcc.a(_dvmd_tls.o)
+ *(COMMON)
+ COMMON         0x009104d0       0x30 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(platform.o)
+                0x009104d0                regs_USDHC1_base
+                0x009104d4                regs_IOMUXC_base
+                0x009104d8                regs_USDHC2_base
+                0x009104dc                iomux_NAND_cfg
+                0x009104e0                regs_WEIM_CS_base
+                0x009104e4                regs_BCH_base
+                0x009104e8                regs_APBH_DMA_base
+                0x009104ec                regs_USB_base
+                0x009104f0                regs_GPMI_base
+                0x009104f4                regs_OCOTP_base
+                0x009104f8                regs_USDHC4_base
+                0x009104fc                regs_USDHC3_base
+ COMMON         0x00910500      0x404 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor.o)
+                0x00910500                g_spi_nor_tx_buf
+                0x00910700                spi_xfer_flash
+                0x00910704                g_spi_nor_rx_buf
+ COMMON         0x00910904        0x8 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor.o)
+                0x00910904                g_nor_cfg
+                0x00910908                g_nor_boot
+ COMMON         0x0091090c        0x2 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(main.o)
+                0x0091090c                chip
+ *fill*         0x0091090e        0x2 00
+ COMMON         0x00910910      0x580 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(shell.o)
+                0x00910910                cmd_line_buffer
+                0x00910a10                history_buffer
+                0x00910e10                argvs
+                0x00910e90                __bss_end__ = .
+                0x00910e90                . = ALIGN (0x4)
+
+.stack          0x00910e90     0x2000
+                0x00912e90                . = (. + 0x2000)
+ *fill*         0x00910e90     0x2000 00
+                0x00912e90                . = ALIGN (0x4)
+                0x00912e90                top_of_stacks = .
+                0x00912e90                . = ALIGN (0x4)
+                0x00912e90                free_memory_start = .
+                0x00912e90                _end = .
+OUTPUT(/home/george/kibble/rom_utility/output/mx6x/bin/rom_utility_mx6x.elf elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x39
+ .ARM.attributes
+                0x00000000       0x27 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(vectors.o)
+ .ARM.attributes
+                0x00000027       0x1a /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(init.o)
+ .ARM.attributes
+                0x00000041       0x39 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(stdio_func.o)
+ .ARM.attributes
+                0x0000007a       0x39 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6dq_iomux.o)
+ .ARM.attributes
+                0x000000b3       0x39 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6dl_iomux.o)
+ .ARM.attributes
+                0x000000ec       0x39 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6sl_iomux.o)
+ .ARM.attributes
+                0x00000125       0x39 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6sx_iomux.o)
+ .ARM.attributes
+                0x0000015e       0x39 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6ul_iomux.o)
+ .ARM.attributes
+                0x00000197       0x39 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6ull_iomux.o)
+ .ARM.attributes
+                0x000001d0       0x39 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6sll_iomux.o)
+ .ARM.attributes
+                0x00000209       0x39 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(hardware.o)
+ .ARM.attributes
+                0x00000242       0x39 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(platform.o)
+ .ARM.attributes
+                0x0000027b       0x39 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(psp.o)
+ .ARM.attributes
+                0x000002b4       0x39 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(arm_v7.o)
+ .ARM.attributes
+                0x000002ed       0x39 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(boot_cfg.o)
+ .ARM.attributes
+                0x00000326       0x39 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(rom_symbols.o)
+ .ARM.attributes
+                0x0000035f       0x27 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(arm_v7_cache.o)
+ .ARM.attributes
+                0x00000386       0x39 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(cortexa_dcc3.o)
+ .ARM.attributes
+                0x000003bf       0x39 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(term.o)
+ .ARM.attributes
+                0x000003f8       0x39 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(ocotp.o)
+ .ARM.attributes
+                0x00000431       0x39 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(timer.o)
+ .ARM.attributes
+                0x0000046a       0x39 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(iomuxc.o)
+ .ARM.attributes
+                0x000004a3       0x39 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_ecspi.o)
+ .ARM.attributes
+                0x000004dc       0x39 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_i2c.o)
+ .ARM.attributes
+                0x00000515       0x39 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(qspi.o)
+ .ARM.attributes
+                0x0000054e       0x39 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(quadspi_test.o)
+ .ARM.attributes
+                0x00000587       0x39 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(at24cxx.o)
+ .ARM.attributes
+                0x000005c0       0x39 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor_atmel.o)
+ .ARM.attributes
+                0x000005f9       0x39 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor.o)
+ .ARM.attributes
+                0x00000632       0x39 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor_numonyx.o)
+ .ARM.attributes
+                0x0000066b       0x39 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor.o)
+ .ARM.attributes
+                0x000006a4       0x39 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_cmdset0.o)
+ .ARM.attributes
+                0x000006dd       0x39 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_cmdset1.o)
+ .ARM.attributes
+                0x00000716       0x39 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(ocotp_utility.o)
+ .ARM.attributes
+                0x0000074f       0x39 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(main.o)
+ .ARM.attributes
+                0x00000788       0x39 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(flash_utility.o)
+ .ARM.attributes
+                0x000007c1       0x39 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(romp_utility.o)
+ .ARM.attributes
+                0x000007fa       0x39 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(common_utility.o)
+ .ARM.attributes
+                0x00000833       0x39 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_utility.o)
+ .ARM.attributes
+                0x0000086c       0x39 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(shell.o)
+ .ARM.attributes
+                0x000008a5       0x39 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(crc.o)
+ .ARM.attributes
+                0x000008de       0x19 /usr/local/gcc-arm-none-eabi-4_7/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7-ar/thumb/libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x000008f7       0x19 /usr/local/gcc-arm-none-eabi-4_7/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7-ar/thumb/libgcc.a(_dvmd_tls.o)
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x70 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(stdio_func.o)
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6dq_iomux.o)
+ .comment       0x00000000       0x71 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6dl_iomux.o)
+ .comment       0x00000000       0x71 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6sl_iomux.o)
+ .comment       0x00000000       0x71 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6sx_iomux.o)
+ .comment       0x00000000       0x71 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6ul_iomux.o)
+ .comment       0x00000000       0x71 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6ull_iomux.o)
+ .comment       0x00000000       0x71 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6sll_iomux.o)
+ .comment       0x00000000       0x71 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(hardware.o)
+ .comment       0x00000000       0x71 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(platform.o)
+ .comment       0x00000000       0x71 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(psp.o)
+ .comment       0x00000000       0x71 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(arm_v7.o)
+ .comment       0x00000000       0x71 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(boot_cfg.o)
+ .comment       0x00000000       0x71 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(rom_symbols.o)
+ .comment       0x00000000       0x71 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(cortexa_dcc3.o)
+ .comment       0x00000000       0x71 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(term.o)
+ .comment       0x00000000       0x71 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(ocotp.o)
+ .comment       0x00000000       0x71 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(timer.o)
+ .comment       0x00000000       0x71 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(iomuxc.o)
+ .comment       0x00000000       0x71 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_ecspi.o)
+ .comment       0x00000000       0x71 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_i2c.o)
+ .comment       0x00000000       0x71 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(qspi.o)
+ .comment       0x00000000       0x71 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(quadspi_test.o)
+ .comment       0x00000000       0x71 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(at24cxx.o)
+ .comment       0x00000000       0x71 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor_atmel.o)
+ .comment       0x00000000       0x71 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor.o)
+ .comment       0x00000000       0x71 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor_numonyx.o)
+ .comment       0x00000000       0x71 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor.o)
+ .comment       0x00000000       0x71 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_cmdset0.o)
+ .comment       0x00000000       0x71 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_cmdset1.o)
+ .comment       0x00000000       0x71 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(ocotp_utility.o)
+ .comment       0x00000000       0x71 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(main.o)
+ .comment       0x00000000       0x71 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(flash_utility.o)
+ .comment       0x00000000       0x71 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(romp_utility.o)
+ .comment       0x00000000       0x71 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(common_utility.o)
+ .comment       0x00000000       0x71 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_utility.o)
+ .comment       0x00000000       0x71 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(shell.o)
+ .comment       0x00000000       0x71 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(crc.o)
+
+.debug_line     0x00000000     0x31c4
+ .debug_line    0x00000000       0x49 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(vectors.o)
+ .debug_line    0x00000049      0x338 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(stdio_func.o)
+ .debug_line    0x00000381       0x6e /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6dq_iomux.o)
+ .debug_line    0x000003ef       0x6e /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6dl_iomux.o)
+ .debug_line    0x0000045d       0x6e /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6sl_iomux.o)
+ .debug_line    0x000004cb       0x6e /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6sx_iomux.o)
+ .debug_line    0x00000539       0x6e /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6ul_iomux.o)
+ .debug_line    0x000005a7       0x77 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6ull_iomux.o)
+ .debug_line    0x0000061e       0x6f /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6sll_iomux.o)
+ .debug_line    0x0000068d       0x9a /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(hardware.o)
+ .debug_line    0x00000727       0x5f /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(platform.o)
+ .debug_line    0x00000786      0x219 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(psp.o)
+ .debug_line    0x0000099f       0x52 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(arm_v7.o)
+ .debug_line    0x000009f1       0xcf /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(boot_cfg.o)
+ .debug_line    0x00000ac0      0x409 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(rom_symbols.o)
+ .debug_line    0x00000ec9       0x92 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(arm_v7_cache.o)
+ .debug_line    0x00000f5b       0xb0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(cortexa_dcc3.o)
+ .debug_line    0x0000100b       0x68 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(term.o)
+ .debug_line    0x00001073      0x185 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(ocotp.o)
+ .debug_line    0x000011f8      0x198 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(timer.o)
+ .debug_line    0x00001390       0xb7 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(iomuxc.o)
+ .debug_line    0x00001447       0xb9 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_ecspi.o)
+ .debug_line    0x00001500      0x1c7 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_i2c.o)
+ .debug_line    0x000016c7      0x3da /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(qspi.o)
+ .debug_line    0x00001aa1      0x1ad /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(quadspi_test.o)
+ .debug_line    0x00001c4e       0xe7 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(at24cxx.o)
+ .debug_line    0x00001d35      0x249 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor_atmel.o)
+ .debug_line    0x00001f7e      0x148 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor.o)
+ .debug_line    0x000020c6      0x247 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor_numonyx.o)
+ .debug_line    0x0000230d      0x132 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor.o)
+ .debug_line    0x0000243f      0x177 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_cmdset0.o)
+ .debug_line    0x000025b6      0x176 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_cmdset1.o)
+ .debug_line    0x0000272c       0x87 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(ocotp_utility.o)
+ .debug_line    0x000027b3       0x7c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(main.o)
+ .debug_line    0x0000282f      0x3b7 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(flash_utility.o)
+ .debug_line    0x00002be6       0xb0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(romp_utility.o)
+ .debug_line    0x00002c96       0xe0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(common_utility.o)
+ .debug_line    0x00002d76      0x21d /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_utility.o)
+ .debug_line    0x00002f93      0x156 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(shell.o)
+ .debug_line    0x000030e9       0xdb /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(crc.o)
+
+.debug_info     0x00000000     0x7925
+ .debug_info    0x00000000       0x5d /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(vectors.o)
+ .debug_info    0x0000005d      0x723 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(stdio_func.o)
+ .debug_info    0x00000780      0x107 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6dq_iomux.o)
+ .debug_info    0x00000887      0x108 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6dl_iomux.o)
+ .debug_info    0x0000098f       0xf6 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6sl_iomux.o)
+ .debug_info    0x00000a85      0x14a /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6sx_iomux.o)
+ .debug_info    0x00000bcf       0xd4 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6ul_iomux.o)
+ .debug_info    0x00000ca3       0xe6 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6ull_iomux.o)
+ .debug_info    0x00000d89       0xf6 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6sll_iomux.o)
+ .debug_info    0x00000e7f      0x154 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(hardware.o)
+ .debug_info    0x00000fd3      0x288 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(platform.o)
+ .debug_info    0x0000125b      0x636 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(psp.o)
+ .debug_info    0x00001891       0x74 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(arm_v7.o)
+ .debug_info    0x00001905      0x26a /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(boot_cfg.o)
+ .debug_info    0x00001b6f      0x1f9 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(rom_symbols.o)
+ .debug_info    0x00001d68       0x5f /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(arm_v7_cache.o)
+ .debug_info    0x00001dc7      0x188 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(cortexa_dcc3.o)
+ .debug_info    0x00001f4f       0xf1 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(term.o)
+ .debug_info    0x00002040      0x4c5 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(ocotp.o)
+ .debug_info    0x00002505      0x3e1 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(timer.o)
+ .debug_info    0x000028e6      0x140 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(iomuxc.o)
+ .debug_info    0x00002a26      0x282 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_ecspi.o)
+ .debug_info    0x00002ca8      0x366 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_i2c.o)
+ .debug_info    0x0000300e      0x94e /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(qspi.o)
+ .debug_info    0x0000395c      0x7d2 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(quadspi_test.o)
+ .debug_info    0x0000412e      0x1a7 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(at24cxx.o)
+ .debug_info    0x000042d5      0x5e6 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor_atmel.o)
+ .debug_info    0x000048bb      0x4fa /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor.o)
+ .debug_info    0x00004db5      0x44e /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor_numonyx.o)
+ .debug_info    0x00005203      0x4d4 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor.o)
+ .debug_info    0x000056d7      0x461 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_cmdset0.o)
+ .debug_info    0x00005b38      0x470 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_cmdset1.o)
+ .debug_info    0x00005fa8      0x17d /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(ocotp_utility.o)
+ .debug_info    0x00006125      0x174 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(main.o)
+ .debug_info    0x00006299      0x5a9 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(flash_utility.o)
+ .debug_info    0x00006842      0x133 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(romp_utility.o)
+ .debug_info    0x00006975      0x1d5 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(common_utility.o)
+ .debug_info    0x00006b4a      0x8a2 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_utility.o)
+ .debug_info    0x000073ec      0x323 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(shell.o)
+ .debug_info    0x0000770f      0x216 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(crc.o)
+
+.debug_abbrev   0x00000000     0x246c
+ .debug_abbrev  0x00000000       0x14 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(vectors.o)
+ .debug_abbrev  0x00000014      0x158 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(stdio_func.o)
+ .debug_abbrev  0x0000016c       0x65 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6dq_iomux.o)
+ .debug_abbrev  0x000001d1       0x65 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6dl_iomux.o)
+ .debug_abbrev  0x00000236       0x65 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6sl_iomux.o)
+ .debug_abbrev  0x0000029b       0x65 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6sx_iomux.o)
+ .debug_abbrev  0x00000300       0x65 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6ul_iomux.o)
+ .debug_abbrev  0x00000365       0x65 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6ull_iomux.o)
+ .debug_abbrev  0x000003ca       0x65 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6sll_iomux.o)
+ .debug_abbrev  0x0000042f       0xd7 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(hardware.o)
+ .debug_abbrev  0x00000506       0x6c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(platform.o)
+ .debug_abbrev  0x00000572      0x12c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(psp.o)
+ .debug_abbrev  0x0000069e       0x64 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(arm_v7.o)
+ .debug_abbrev  0x00000702       0xbd /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(boot_cfg.o)
+ .debug_abbrev  0x000007bf       0xa3 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(rom_symbols.o)
+ .debug_abbrev  0x00000862       0x14 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(arm_v7_cache.o)
+ .debug_abbrev  0x00000876       0xb1 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(cortexa_dcc3.o)
+ .debug_abbrev  0x00000927       0xc0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(term.o)
+ .debug_abbrev  0x000009e7      0x1c1 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(ocotp.o)
+ .debug_abbrev  0x00000ba8      0x125 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(timer.o)
+ .debug_abbrev  0x00000ccd       0xc5 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(iomuxc.o)
+ .debug_abbrev  0x00000d92       0xfe /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_ecspi.o)
+ .debug_abbrev  0x00000e90      0x10d /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_i2c.o)
+ .debug_abbrev  0x00000f9d      0x1d3 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(qspi.o)
+ .debug_abbrev  0x00001170      0x13c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(quadspi_test.o)
+ .debug_abbrev  0x000012ac       0xc3 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(at24cxx.o)
+ .debug_abbrev  0x0000136f      0x17e /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor_atmel.o)
+ .debug_abbrev  0x000014ed      0x13c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor.o)
+ .debug_abbrev  0x00001629      0x13e /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor_numonyx.o)
+ .debug_abbrev  0x00001767      0x161 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor.o)
+ .debug_abbrev  0x000018c8      0x19f /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_cmdset0.o)
+ .debug_abbrev  0x00001a67      0x196 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_cmdset1.o)
+ .debug_abbrev  0x00001bfd       0xdc /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(ocotp_utility.o)
+ .debug_abbrev  0x00001cd9       0x7a /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(main.o)
+ .debug_abbrev  0x00001d53      0x1c0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(flash_utility.o)
+ .debug_abbrev  0x00001f13       0xc8 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(romp_utility.o)
+ .debug_abbrev  0x00001fdb       0xd7 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(common_utility.o)
+ .debug_abbrev  0x000020b2      0x191 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_utility.o)
+ .debug_abbrev  0x00002243      0x10e /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(shell.o)
+ .debug_abbrev  0x00002351      0x11b /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(crc.o)
+
+.debug_aranges  0x00000000      0x908
+ .debug_aranges
+                0x00000000       0x20 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(vectors.o)
+ .debug_aranges
+                0x00000020       0xb8 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(stdio_func.o)
+ .debug_aranges
+                0x000000d8       0x18 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6dq_iomux.o)
+ .debug_aranges
+                0x000000f0       0x18 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6dl_iomux.o)
+ .debug_aranges
+                0x00000108       0x18 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6sl_iomux.o)
+ .debug_aranges
+                0x00000120       0x18 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6sx_iomux.o)
+ .debug_aranges
+                0x00000138       0x18 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6ul_iomux.o)
+ .debug_aranges
+                0x00000150       0x18 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6ull_iomux.o)
+ .debug_aranges
+                0x00000168       0x18 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6sll_iomux.o)
+ .debug_aranges
+                0x00000180       0x28 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(hardware.o)
+ .debug_aranges
+                0x000001a8       0x18 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(platform.o)
+ .debug_aranges
+                0x000001c0       0x70 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(psp.o)
+ .debug_aranges
+                0x00000230       0x28 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(arm_v7.o)
+ .debug_aranges
+                0x00000258       0x20 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(boot_cfg.o)
+ .debug_aranges
+                0x00000278       0x20 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(rom_symbols.o)
+ .debug_aranges
+                0x00000298       0x20 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(arm_v7_cache.o)
+ .debug_aranges
+                0x000002b8       0x30 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(cortexa_dcc3.o)
+ .debug_aranges
+                0x000002e8       0x30 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(term.o)
+ .debug_aranges
+                0x00000318       0x50 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(ocotp.o)
+ .debug_aranges
+                0x00000368       0x68 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(timer.o)
+ .debug_aranges
+                0x000003d0       0x28 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(iomuxc.o)
+ .debug_aranges
+                0x000003f8       0x30 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_ecspi.o)
+ .debug_aranges
+                0x00000428       0x58 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_i2c.o)
+ .debug_aranges
+                0x00000480       0xd8 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(qspi.o)
+ .debug_aranges
+                0x00000558       0x48 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(quadspi_test.o)
+ .debug_aranges
+                0x000005a0       0x28 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(at24cxx.o)
+ .debug_aranges
+                0x000005c8       0x48 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor_atmel.o)
+ .debug_aranges
+                0x00000610       0x40 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor.o)
+ .debug_aranges
+                0x00000650       0x50 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor_numonyx.o)
+ .debug_aranges
+                0x000006a0       0x30 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor.o)
+ .debug_aranges
+                0x000006d0       0x68 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_cmdset0.o)
+ .debug_aranges
+                0x00000738       0x60 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_cmdset1.o)
+ .debug_aranges
+                0x00000798       0x20 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(ocotp_utility.o)
+ .debug_aranges
+                0x000007b8       0x20 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(main.o)
+ .debug_aranges
+                0x000007d8       0x48 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(flash_utility.o)
+ .debug_aranges
+                0x00000820       0x20 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(romp_utility.o)
+ .debug_aranges
+                0x00000840       0x28 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(common_utility.o)
+ .debug_aranges
+                0x00000868       0x48 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_utility.o)
+ .debug_aranges
+                0x000008b0       0x30 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(shell.o)
+ .debug_aranges
+                0x000008e0       0x28 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(crc.o)
+
+.debug_loc      0x00000000     0x23bd
+ .debug_loc     0x00000000      0x46c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(stdio_func.o)
+ .debug_loc     0x0000046c       0x70 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(hardware.o)
+ .debug_loc     0x000004dc      0x25c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(psp.o)
+ .debug_loc     0x00000738       0x64 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(arm_v7.o)
+ .debug_loc     0x0000079c       0x38 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(boot_cfg.o)
+ .debug_loc     0x000007d4       0x38 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(rom_symbols.o)
+ .debug_loc     0x0000080c       0xa8 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(cortexa_dcc3.o)
+ .debug_loc     0x000008b4       0xa8 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(term.o)
+ .debug_loc     0x0000095c      0x164 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(ocotp.o)
+ .debug_loc     0x00000ac0      0x218 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(timer.o)
+ .debug_loc     0x00000cd8       0x72 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(iomuxc.o)
+ .debug_loc     0x00000d4a       0xa8 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_ecspi.o)
+ .debug_loc     0x00000df2      0x1c0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_i2c.o)
+ .debug_loc     0x00000fb2      0x540 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(qspi.o)
+ .debug_loc     0x000014f2      0x150 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(quadspi_test.o)
+ .debug_loc     0x00001642       0x70 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(at24cxx.o)
+ .debug_loc     0x000016b2      0x13a /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor_atmel.o)
+ .debug_loc     0x000017ec      0x118 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor.o)
+ .debug_loc     0x00001904      0x166 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor_numonyx.o)
+ .debug_loc     0x00001a6a       0xa8 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor.o)
+ .debug_loc     0x00001b12      0x218 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_cmdset0.o)
+ .debug_loc     0x00001d2a      0x1ec /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_cmdset1.o)
+ .debug_loc     0x00001f16       0x38 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(ocotp_utility.o)
+ .debug_loc     0x00001f4e       0x2c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(main.o)
+ .debug_loc     0x00001f7a      0x13b /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(flash_utility.o)
+ .debug_loc     0x000020b5       0x38 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(romp_utility.o)
+ .debug_loc     0x000020ed       0x70 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(common_utility.o)
+ .debug_loc     0x0000215d      0x148 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_utility.o)
+ .debug_loc     0x000022a5       0xa8 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(shell.o)
+ .debug_loc     0x0000234d       0x70 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(crc.o)
+
+.debug_ranges   0x00000000      0x628
+ .debug_ranges  0x00000000       0xa8 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(stdio_func.o)
+ .debug_ranges  0x000000a8       0x18 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(hardware.o)
+ .debug_ranges  0x000000c0       0x60 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(psp.o)
+ .debug_ranges  0x00000120       0x18 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(arm_v7.o)
+ .debug_ranges  0x00000138       0x10 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(boot_cfg.o)
+ .debug_ranges  0x00000148       0x10 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(rom_symbols.o)
+ .debug_ranges  0x00000158       0x20 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(cortexa_dcc3.o)
+ .debug_ranges  0x00000178       0x20 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(term.o)
+ .debug_ranges  0x00000198       0x40 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(ocotp.o)
+ .debug_ranges  0x000001d8       0x58 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(timer.o)
+ .debug_ranges  0x00000230       0x18 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(iomuxc.o)
+ .debug_ranges  0x00000248       0x20 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_ecspi.o)
+ .debug_ranges  0x00000268       0x48 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_i2c.o)
+ .debug_ranges  0x000002b0       0xc8 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(qspi.o)
+ .debug_ranges  0x00000378       0x38 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(quadspi_test.o)
+ .debug_ranges  0x000003b0       0x18 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(at24cxx.o)
+ .debug_ranges  0x000003c8       0x38 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor_atmel.o)
+ .debug_ranges  0x00000400       0x30 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor.o)
+ .debug_ranges  0x00000430       0x40 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor_numonyx.o)
+ .debug_ranges  0x00000470       0x20 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor.o)
+ .debug_ranges  0x00000490       0x58 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_cmdset0.o)
+ .debug_ranges  0x000004e8       0x50 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_cmdset1.o)
+ .debug_ranges  0x00000538       0x10 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(ocotp_utility.o)
+ .debug_ranges  0x00000548       0x10 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(main.o)
+ .debug_ranges  0x00000558       0x38 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(flash_utility.o)
+ .debug_ranges  0x00000590       0x10 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(romp_utility.o)
+ .debug_ranges  0x000005a0       0x18 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(common_utility.o)
+ .debug_ranges  0x000005b8       0x38 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_utility.o)
+ .debug_ranges  0x000005f0       0x20 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(shell.o)
+ .debug_ranges  0x00000610       0x18 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(crc.o)
+
+.debug_str      0x00000000     0x2553
+ .debug_str     0x00000000      0x1d1 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(stdio_func.o)
+                                0x207 (size before relaxing)
+ .debug_str     0x000001d1       0xfe /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6dq_iomux.o)
+                                0x17c (size before relaxing)
+ .debug_str     0x000002cf       0xb0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6dl_iomux.o)
+                                0x17c (size before relaxing)
+ .debug_str     0x0000037f       0x9f /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6sl_iomux.o)
+                                0x16b (size before relaxing)
+ .debug_str     0x0000041e       0xd4 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6sx_iomux.o)
+                                0x1a0 (size before relaxing)
+ .debug_str     0x000004f2       0x7b /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6ul_iomux.o)
+                                0x147 (size before relaxing)
+ .debug_str     0x0000056d       0x9a /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6ull_iomux.o)
+                                0x166 (size before relaxing)
+ .debug_str     0x00000607       0xa6 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(mx6sll_iomux.o)
+                                0x172 (size before relaxing)
+ .debug_str     0x000006ad       0x7b /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(hardware.o)
+                                0x145 (size before relaxing)
+ .debug_str     0x00000728      0x1ed /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(platform.o)
+                                0x359 (size before relaxing)
+ .debug_str     0x00000915      0x434 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(psp.o)
+                                0x788 (size before relaxing)
+ .debug_str     0x00000d49       0x51 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(arm_v7.o)
+                                 0xaf (size before relaxing)
+ .debug_str     0x00000d9a      0x1af /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(boot_cfg.o)
+                                0x487 (size before relaxing)
+ .debug_str     0x00000f49       0x2b /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(rom_symbols.o)
+                                0x42d (size before relaxing)
+ .debug_str     0x00000f74       0x88 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(cortexa_dcc3.o)
+                                0x118 (size before relaxing)
+ .debug_str     0x00000ffc       0x30 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(term.o)
+                                 0xd1 (size before relaxing)
+ .debug_str     0x0000102c      0x2cf /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(ocotp.o)
+                                0x3b0 (size before relaxing)
+ .debug_str     0x000012fb      0x105 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(timer.o)
+                                0x51f (size before relaxing)
+ .debug_str     0x00001400       0xb9 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(iomuxc.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x000014b9       0xf7 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_ecspi.o)
+                                0x1cc (size before relaxing)
+ .debug_str     0x000015b0       0xe4 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_i2c.o)
+                                0x1bd (size before relaxing)
+ .debug_str     0x00001694      0x334 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(qspi.o)
+                                0x45d (size before relaxing)
+ .debug_str     0x000019c8       0xff /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(quadspi_test.o)
+                                0x684 (size before relaxing)
+ .debug_str     0x00001ac7       0x6a /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(at24cxx.o)
+                                0x16e (size before relaxing)
+ .debug_str     0x00001b31      0x20d /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor_atmel.o)
+                                0x38d (size before relaxing)
+ .debug_str     0x00001d3e       0x76 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor.o)
+                                0x2db (size before relaxing)
+ .debug_str     0x00001db4       0xb6 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor_numonyx.o)
+                                0x302 (size before relaxing)
+ .debug_str     0x00001e6a      0x112 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor.o)
+                                0x440 (size before relaxing)
+ .debug_str     0x00001f7c       0xb2 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_cmdset0.o)
+                                0x25b (size before relaxing)
+ .debug_str     0x0000202e       0x17 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_cmdset1.o)
+                                0x24a (size before relaxing)
+ .debug_str     0x00002045       0x80 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(ocotp_utility.o)
+                                0x155 (size before relaxing)
+ .debug_str     0x000020c5        0xc /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(main.o)
+                                0x2dd (size before relaxing)
+ .debug_str     0x000020d1      0x175 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(flash_utility.o)
+                                0x610 (size before relaxing)
+ .debug_str     0x00002246       0x30 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(romp_utility.o)
+                                0x13d (size before relaxing)
+ .debug_str     0x00002276       0x37 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(common_utility.o)
+                                0x14f (size before relaxing)
+ .debug_str     0x000022ad      0x126 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_utility.o)
+                                0x530 (size before relaxing)
+ .debug_str     0x000023d3      0x117 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(shell.o)
+                                0x20f (size before relaxing)
+ .debug_str     0x000024ea       0x69 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(crc.o)
+                                0x166 (size before relaxing)
+
+.debug_frame    0x00000000     0x1618
+ .debug_frame   0x00000000      0x270 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(stdio_func.o)
+ .debug_frame   0x00000270       0x4c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(hardware.o)
+ .debug_frame   0x000002bc      0x154 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(psp.o)
+ .debug_frame   0x00000410       0x48 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(arm_v7.o)
+ .debug_frame   0x00000458       0x30 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(boot_cfg.o)
+ .debug_frame   0x00000488       0x30 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(rom_symbols.o)
+ .debug_frame   0x000004b8       0x70 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(cortexa_dcc3.o)
+ .debug_frame   0x00000528       0x70 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(term.o)
+ .debug_frame   0x00000598       0xdc /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(ocotp.o)
+ .debug_frame   0x00000674      0x138 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(timer.o)
+ .debug_frame   0x000007ac       0x58 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(iomuxc.o)
+ .debug_frame   0x00000804       0x6c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_ecspi.o)
+ .debug_frame   0x00000870      0x108 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_i2c.o)
+ .debug_frame   0x00000978      0x2e8 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(qspi.o)
+ .debug_frame   0x00000c60       0xd0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(quadspi_test.o)
+ .debug_frame   0x00000d30       0x50 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(at24cxx.o)
+ .debug_frame   0x00000d80       0xd0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor_atmel.o)
+ .debug_frame   0x00000e50       0xb0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor.o)
+ .debug_frame   0x00000f00       0xf0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(imx_spi_nor_numonyx.o)
+ .debug_frame   0x00000ff0       0x74 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor.o)
+ .debug_frame   0x00001064      0x140 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_cmdset0.o)
+ .debug_frame   0x000011a4      0x124 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_cmdset1.o)
+ .debug_frame   0x000012c8       0x30 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(ocotp_utility.o)
+ .debug_frame   0x000012f8       0x2c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(main.o)
+ .debug_frame   0x00001324       0xcc /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(flash_utility.o)
+ .debug_frame   0x000013f0       0x30 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(romp_utility.o)
+ .debug_frame   0x00001420       0x50 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(common_utility.o)
+ .debug_frame   0x00001470       0xd0 /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(nor_utility.o)
+ .debug_frame   0x00001540       0x6c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(shell.o)
+ .debug_frame   0x000015ac       0x4c /home/george/kibble/rom_utility/output/mx6x/lib/lib.a(crc.o)
+ .debug_frame   0x000015f8       0x20 /usr/local/gcc-arm-none-eabi-4_7/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7-ar/thumb/libgcc.a(_udivsi3.o)

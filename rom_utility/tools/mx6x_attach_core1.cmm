@@ -1,0 +1,80 @@
+; Lauterbach startup script for mx6x_ddr3_cpu board. The script will attach core1 and then initialize the DDR.                                                                                  
+; Version: 0.01. Initial version and not tested yet.                                                                                                                                            
+                                                                                                                                                                                                
+screen.on                                                                                                                                                                                       
+                                                                                                                                                                                                
+; Debugger Reset                                                                                                                                                                                
+winpage.reset                                                                                                                                                                                   
+area.reset                                                                                                                                                                                      
+WINPOS 0. 26. 75. 8. 0. 0. W000                                                                                                                                                                 
+area                                                                                                                                                                                            
+                                                                                                                                                                                                
+print "resetting..."                                                                                                                                                                            
+                                                                                                                                                                                                
+System.Down                                                                                                                                                                                     
+Break.Delete                                                                                                                                                                                    
+MAP.RESet                                                                                                                                                                                       
+TASK.RESet                                                                                                                                                                                      
+sYmbol.RESet                                                                                                                                                                                    
+Data.PROLOG.RESet                                                                                                                                                                               
+Data.EPILOG.RESet                                                                                                                                                                               
+sYmbol.AutoLoad.CHECK OFF      ; disable dynamic autoloader                                                                                                                                     
+sYmbol.AutoLoad.RESet          ; reset autoloader list                                                                                                                                          
+;MMU.RESet                                                                                                                                                                                       
+                                                                                                                                                                                                
+; setup of ICD                                                                                                                                                                                  
+                                                                                                                                                                                                
+print "initializing JTAG..."                                                                                                                                                                    
+SYStem.CPU CORTEXA9                                                                                                                                                                             
+SYStem.MultiCore IRPOST 0x0                                                                                                                                                                     
+SYStem.MultiCore IRPRE 0x0                                                                                                                                                                      
+SYStem.MultiCore DRPOST 0x0                                                                                                                                                                     
+SYStem.MultiCore DRPRE 0x0                                                                                                                                                                      
+SYStem.MultiCore DAPIRPOST 0x09                                                                                                                                                                 
+SYStem.MultiCore DAPIRPRE 0x0                                                                                                                                                                   
+SYStem.MultiCore DAPDRPOST 0x02                                                                                                                                                                 
+SYStem.MultiCore DAPDRPRE 0x0	                                                                                                                                                                  
+                                                                                                                                                                                                
+SYStem.MultiCore MEMORYACCESSPORT 0                                                                                                                                                             
+SYStem.MultiCore DEBUGACCESSPORT 1                                                                                                                                                              
+                                                                                                                                                                                                
+SYStem.MultiCore COREBASE DAP:0x82150000                                                                                                                                                        
+                                                                                                                                                                                                
+SYStem.Option DACR ON          ; give Debugger global write permissions                                                                                                                         
+SYStem.Option MMU OFF          ; no space ids used (yet)                                                                                                                                        
+SYStem.JtagClock 20.0MHz                                                                                                                                                                        
+                                                                                                                                                                                                
+; Use on-chip breakpoints                                                                                                                                                                       
+Break.SELect PROGRAM ONCHIP                                                                                                                                                                     
+Break.SELect READ ONCHIP                                                                                                                                                                        
+Break.SELect WRITE ONCHIP                                                                                                                                                                       
+Break.SELect ALPHA ONCHIP                                                                                                                                                                       
+Break.SELect BETA ONCHIP                                                                                                                                                                        
+Break.SELect CHARLY ONCHIP                                                                                                                                                                      
+Break.SELect DELTA ONCHIP                                                                                                                                                                       
+Break.SELect ECHO ONCHIP                                                                                                                                                                        
+SYStem.Option EnReset OFF			;do not allow the jtag to reset the target                                                                                                                        
+SYS.m attach                                                                                                                                                                                    
+; wait until reset is complete                                                                                                                                                                  
+wait 2.s                                                                                                                                                                                        
+if run()                                                                                                                                                                                        
+    Break   
+
+R.S CPSR 0x1d3                                                                                                                                                                                    
+WINPOS 0. 0. 75. 20.                                                                                                                                                                            
+Data.List                                                                                                                                                                                       
+
+enddo                                                                                                                                                                                           
+                                                                                                                                                                                                
+                                                                                                                                                                                                
+                                                                                                                                                                                                
+                                                                                                                                                                                                
+                                                                                                                                                                                                
+                                                                                                                                                                                                
+                                                                                                                                                                                                
+                                                                                                                                                                                                
+
+
+
+
+

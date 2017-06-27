@@ -1,0 +1,84 @@
+ARM_GCC_PATH = /usr/local/gcc-arm-none-eabi-4_7/bin
+
+CC = $(ARM_GCC_PATH)/arm-none-eabi-gcc 
+AS = $(ARM_GCC_PATH)/arm-none-eabi-as
+AR = $(ARM_GCC_PATH)/arm-none-eabi-ar
+LN = $(ARM_GCC_PATH)/arm-none-eabi-ld
+OBJCP = $(ARM_GCC_PATH)/arm-none-eabi-objcopy
+
+CP = cp
+RM = rm -rf
+MKDIR = mkdir -p
+MAKE = make
+
+IMAGENAME = rom_utility_$(TARGET)
+ifdef parser
+IMAGENAME = rom_utility_parser_$(TARGET)
+endif
+
+OUTPUT_BIN = $(PROJ_OUT)/bin/$(IMAGENAME).bin
+OUTPUT_ELF = $(PROJ_OUT)/bin/$(IMAGENAME).elf
+OUTPUT_MAP = $(PROJ_OUT)/bin/$(IMAGENAME).map
+
+ifeq "$(TARGET)" "mx6x"
+CPU     =cortex-a9
+else
+ifeq "$(TARGET)" "mx7x"
+CPU     =cortex-a7
+endif
+endif
+
+ifneq "$(VERBOSE)" "true"
+AT = @
+SILENT = --silent
+endif
+
+C_DEFINES +=-DSTANDALONE
+
+LD_FLAGS :=  -nostartfiles
+
+ifeq "$(TARGET)" "mx6x"
+ifdef parser
+LD_FLAGS += -T $(PROJ_DIR)/src/psp/$(TARGET)/$(TARGET)_parser.ld
+else
+	ifdef usb_print
+		LD_FLAGS += -T $(PROJ_DIR)/src/psp/$(TARGET)/$(TARGET)_usb_print.ld
+		C_FLAGS += -DUSB_PRINT
+	else
+		LD_FLAGS += -T $(PROJ_DIR)/src/psp/$(TARGET)/$(TARGET).ld
+	endif
+endif
+else
+	ifdef usb_print
+		LD_FLAGS += -T $(PROJ_DIR)/src/psp/$(TARGET)/$(TARGET)_usb_print.ld
+		C_FLAGS += -DUSB_PRINT
+	else
+		LD_FLAGS += -T $(PROJ_DIR)/src/psp/$(TARGET)/$(TARGET).ld
+	endif
+endif
+
+C_FLAGS  += -mcpu=$(CPU) -mthumb -Wall -Werror -Wpointer-arith -Wstrict-prototypes -Winline -Wundef  -mapcs -g -O0  -ffunction-sections -fdata-sections -fno-exceptions
+C_INCLUDES      += -I$(PROJ_DIR) -I$(PROJ_DIR)/include -I$(PROJ_DIR)/src/include -I$(PROJ_DIR)/src/include/$(TARGET)/ -I.
+C_INCLUDES      += -I$(PROJ_DIR)/src/include/registers -I$(PROJ_DIR)/src/drivers -I$(PROJ_DIR)/src
+
+ifeq "$(TARGET)" "mx6x"
+C_INCLUDES      += -I$(PROJ_DIR)/src/psp/mx6x -I$(PROJ_DIR)/src/psp
+C_FLAGS += -DMX6X
+else
+ifeq "$(TARGET)" "mx7x"
+C_INCLUDES      += -I$(PROJ_DIR)/src/psp/mx7x -I$(PROJ_DIR)/src/psp
+C_FLAGS += -DMX7X
+endif
+endif
+
+A_INCLUDES      +=  -I$(PROJ_DIR) -I$(PROJ_DIR)/include -I$(PROJ_DIR)/src/include -I$(PROJ_DIR)/src/include/$(TARGET)/ -I.
+A_DEFINES 	=
+A_FLAGS = -mfpu=neon
+
+ifdef nand
+	C_FLAGS += -DNAND_SUPPORT
+endif
+ifdef usdhc
+	C_FLAGS += -DUSDHC_SUPPORT
+endif
+

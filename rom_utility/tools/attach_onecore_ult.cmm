@@ -1,0 +1,81 @@
+    ;
+; Script to attach to a running system, halt the CPU,
+; and display the ASM code
+;
+
+screen.on
+
+; Debugger Reset
+
+winpage.reset
+area.reset
+WINPOS 0. 26. 75. 8. 0. 0. W000
+area
+
+print "resetting ICD..."
+
+System.Down
+Break.Delete
+MAP.RESet
+TASK.RESet
+sYmbol.RESet
+Data.PROLOG.RESet
+Data.EPILOG.RESet
+sYmbol.AutoLoad.CHECK OFF      ; disable dynamic autoloader
+sYmbol.AutoLoad.RESet          ; reset autoloader list
+MMU.RESet
+
+; setup of ICD JTAG
+
+print "initializing JTAG..."
+SYStem.CPU CORTEXA7MPCORE
+SYStem.CONFIG.CHIPIRPOST 0x0
+SYStem.CONFIG.CHIPIRPRE 0x0
+SYStem.CONFIG.CHIPDRPOST 0x0
+SYStem.CONFIG.CHIPDRPRE 0x0
+SYStem.CONFIG.DAPIRPOST 0x0
+SYStem.CONFIG.DAPIRPRE 0x0
+SYStem.CONFIG.DAPDRPOST 0x0
+SYStem.CONFIG.DAPDRPRE 0x0
+
+;diag 3411
+
+SYStem.CONFIG.MEMORYACCESSPORT 0
+SYStem.CONFIG.DEBUGACCESSPORT 1
+system.CONFIG.COREDEBUG.BASE DAP:0xB0070000
+SYStem.Option DACR ON          ; give Debugger global write permissions
+TrOnchip.Set DABORT OFF        ; used by Linux OS for page miss!
+TrOnchip.Set PABORT OFF        ; used by Linux OS for page miss!
+TrOnchip.Set UNDEF OFF         ; let UNDEF be handled by Linux OS
+SYStem.Option MMU OFF          ; no space ids used (yet)
+SYStem.JtagClock 20.0MHz
+SETUP.IMASKASM ON              ; lock interrupts while single stepping
+
+; Use on-chip breakpoints
+Break.SELect PROGRAM ONCHIP
+Break.SELect READ ONCHIP
+Break.SELect WRITE ONCHIP
+Break.SELect ALPHA ONCHIP
+Break.SELect BETA ONCHIP
+Break.SELect CHARLY ONCHIP
+Break.SELect DELTA ONCHIP
+Break.SELect ECHO ONCHIP
+
+SYStem.Option EnReset OFF			;do not allow the jtag to reset the target
+SYS.m attach
+; wait until reset is complete
+wait 2.s
+if run()
+    Break
+; Set GPR1_30 to enable EPDC_MEM access 
+D.S ZSD:0x30340004 %LE %Long 0x4F400005
+ 
+; Open a Code Window -- we like to see something
+
+WINPOS 0. 0. 75. 20.
+Data.List
+
+enddo
+
+
+
