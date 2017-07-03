@@ -1,0 +1,51 @@
+SEGGER J-Link GDB Server V5.11e (beta) Command Line Version
+
+JLinkARM.dll V5.11e (DLL compiled Mar  4 2016 17:34:17)
+
+-----GDB Server start settings-----
+GDBInit file:                  none
+GDB Server Listening port:     3076
+SWO raw output listening port: 2332
+Terminal I/O port:             2333
+Accept remote connection:      localhost only
+Generate logfile:              off
+Verify download:               off
+Init regs on start:            off
+Silent mode:                   off
+Single run mode:               on
+Target connection timeout:     0 ms
+------J-Link related settings------
+J-Link Host interface:         USB
+J-Link script:                 none
+J-Link settings file:          none
+------Target related settings------
+Target device:                 Cortex-M4
+Target interface:              SWD
+Target interface speed:        auto
+Target endian:                 little
+
+Connecting to J-Link...
+J-Link is connected.
+Firmware: J-Link V9 compiled Dec 16 2016 15:34:10
+Hardware: V9.30
+S/N: 609302993
+Feature(s): RDI, FlashBP, FlashDL, JFlash, GDB
+Checking target voltage...
+Target voltage: 3.33 V
+Listening on TCP/IP port 3076
+Connecting to target...Connected to target
+Waiting for GDB connection...Connected to 127.0.0.1
+Reading all registers
+Read 1 bytes @ address 0x00000000 (Data = 0xFF)
+Read 1 bytes @ address 0x00000000 (Data = 0xFF)
+Read 1 bytes @ address 0x00000000 (Data = 0xFF)
+Read 1 bytes @ address 0x00000000 (Data = 0xFF)
+Read 1 bytes @ address 0x00000000 (Data = 0xFF)
+Read 1 bytes @ address 0x00000000 (Data = 0xFF)
+Selecting device: Cortex-M4
+Target endianess set to "little endian"
+Select auto target interface speed (2000 kHz)
+Resets core & peripherals via SYSRESETREQ & VECTRESET bit.
+GDB closed TCP/IP connection
+Restoring target state and closing J-Link connection...
+Shutting down...

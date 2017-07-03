@@ -1,0 +1,8 @@
+set tcp connect-timeout 10
+set remotetimeout 10
+target remote localhost:3792
+monitor flash device = Cortex-M4
+monitor endian little
+monitor speed auto
+monitor reset 0
+q
